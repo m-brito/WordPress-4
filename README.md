@@ -14,10 +14,6 @@
 	🚧  Portfólio ♻️ Em desenvolvimento... 🚀 🚧
 </h4>
 
-<h4 align="center"> 
-  Disponivel em: <a href="https://mauricio-projeto.netlify.app/">Shueisha-Home</a>
-</h4>
-
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#-layout">Layout</a> • 
@@ -68,7 +64,7 @@ Xampp - https://www.apachefriends.org/download.html
 #### 🧭 Rodando a aplicação web (Frontend)
 
 ```bash
-Este é o link para download do arquivo de exportação para ser utilizado no plugin all-in-one Wp migration: https://drive.google.com/drive/folders/1VeUCZe2K_oV8nrDaudUyI6YbXy2rNkq5?usp=sharing
+Este é o link para download do arquivo de exportação para ser utilizado no plugin all-in-one Wp migration: <br> https://drive.google.com/drive/folders/1VeUCZe2K_oV8nrDaudUyI6YbXy2rNkq5?usp=sharing
 ```
 
 ---
