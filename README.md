@@ -38,19 +38,19 @@ Projeto desenvolvido durante **A Jornada #kick** organizado pela [#Kick](http://
 
 <p style="display: flex; align-items: flex-start; justify-content: center;"> <br>
 
-Seção - Sobre - Destinada à informações sobre mim
+Seção - Sobre - Destinada à informações sobre mim <br>
   <img alt="Sobre" title="#Sobre" src="./fotos/sobre.PNG" width="400px">
 
-Seção - Competencias - Destinada à mostrar minhas principais competencias
+Seção - Competencias - Destinada à mostrar minhas principais competencias <br>
   <img alt="Competencias" title="#Competencias" src="./fotos/competencias.PNG" width="400px">
 
-Seção - Projetos - Destinada à mostrar meus projetos
+Seção - Projetos - Destinada à mostrar meus principais projetos <br>
   <img alt="Projetos" title="#Projetos" src="./fotos/projetos.PNG" width="400px">
   
-Seção - Formação - Destinada à mostrar minha formação
+Seção - Formação - Destinada à mostrar minha formação ate o momento <br>
   <img alt="Formacao" title="#Formacao" src="./fotos/formacao.PNG" width="400px">
   
-Seção - Carreira - Destinada à mostrar minhas carreira
+Seção - Carreira - Destinada à mostrar minha carreira ate o momento <br>
   <img alt="Carreira" title="#Carreira" src="./fotos/carreira.PNG" width="400px">
 </p>
 
