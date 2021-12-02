@@ -57,9 +57,8 @@ Seção - Carreira - Destinada à mostrar minha carreira ate o momento <br>
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina: <br>
-WordPress - https://br.wordpress.org/download/
-Xampp - https://www.apachefriends.org/download.html
-<br>
+WordPress - https://br.wordpress.org/download/ <br>
+Xampp - https://www.apachefriends.org/download.html <br>
 
 #### 🧭 Rodando a aplicação web (Frontend)
 
