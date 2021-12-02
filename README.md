@@ -2,9 +2,9 @@
 
 <p align="center">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/m-brito/novo-website-shueisha-poc">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/m-brito/WordPress-4">
   
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/m-brito/novo-website-shueisha-poc">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/m-brito/WordPress-4">
     
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">  
  
@@ -63,9 +63,8 @@ Xampp - https://www.apachefriends.org/download.html
 
 #### 🧭 Rodando a aplicação web (Frontend)
 
-```bash
+
 Este é o link para download do arquivo de exportação para ser utilizado no plugin all-in-one Wp migration: <br> https://drive.google.com/drive/folders/1VeUCZe2K_oV8nrDaudUyI6YbXy2rNkq5?usp=sharing
-```
 
 ---
 
