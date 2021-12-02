@@ -5,7 +5,7 @@ https://drive.google.com/drive/folders/1VeUCZe2K_oV8nrDaudUyI6YbXy2rNkq5?usp=sha
 
 ## 🎨 Layout
 
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;"> <br>
   <img alt="Sobre" title="#Sobre" src="./fotos/sobre.PNG" width="400px"> <br>
 	
   <img alt="Competencias" title="#Competencias" src="./fotos/competencias.PNG" width="400px"> <br>
