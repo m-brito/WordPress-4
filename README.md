@@ -63,7 +63,7 @@ Xampp - https://www.apachefriends.org/download.html <br>
 #### 🧭 Rodando a aplicação web (Frontend)
 
 
-Este é o link para download do arquivo de exportação para ser utilizado no plugin all-in-one Wp migration: <br> https://drive.google.com/file/d/1L3r1JIOMGXC8IWPi4M_untBii5_1iajD/view?usp=sharing
+Este é o link para download do arquivo de exportação para ser utilizado no plugin all-in-one Wp migration: <br> https://drive.google.com/file/d/1NUWbtMwPxMnUVFpXurK04OfKQjuctPMH/view?usp=sharing
 
 ---
 
