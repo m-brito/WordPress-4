@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.8.2" created="2021-12-02 22:28" -->
+	<!-- generator="WordPress/5.8.2" created="2021-12-14 02:28" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -27,13 +27,13 @@
 
 <channel>
 	<title>Mauricio</title>
-	<link>http://localhost/wordpress</link>
+	<link>http://mauricio-brito.soukick.ml</link>
 	<description>Estudante</description>
-	<pubDate>Thu, 02 Dec 2021 22:28:20 +0000</pubDate>
+	<pubDate>Tue, 14 Dec 2021 02:28:46 +0000</pubDate>
 	<language>pt-BR</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://localhost/wordpress</wp:base_site_url>
-	<wp:base_blog_url>http://localhost/wordpress</wp:base_blog_url>
+	<wp:base_site_url>http://mauricio-brito.soukick.ml</wp:base_site_url>
+	<wp:base_blog_url>http://mauricio-brito.soukick.ml</wp:base_blog_url>
 
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[mauricio]]></wp:author_login><wp:author_email><![CDATA[britomauricio2003@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[mauricio]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
@@ -50,10 +50,10 @@
 
 		<item>
 		<title><![CDATA[cat-g245c2904b_1920]]></title>
-		<link>http://localhost/wordpress/home/cat-g245c2904b_1920/</link>
+		<link>http://mauricio-brito.soukick.ml/?attachment_id=37</link>
 		<pubDate>Thu, 04 Nov 2021 21:47:54 +0000</pubDate>
 		<dc:creator><![CDATA[mauricio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/wordpress/wp-content/uploads/2021/11/cat-g245c2904b_1920.jpg</guid>
+		<guid isPermaLink="false">http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/cat-g245c2904b_1920.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -71,7 +71,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost/wordpress/wp-content/uploads/2021/11/cat-g245c2904b_1920.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/cat-g245c2904b_1920.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021/11/cat-g245c2904b_1920.jpg]]></wp:meta_value>
@@ -83,10 +83,10 @@
 							</item>
 					<item>
 		<title><![CDATA[1]]></title>
-		<link>http://localhost/wordpress/home/attachment/1/</link>
+		<link>http://mauricio-brito.soukick.ml/?attachment_id=59</link>
 		<pubDate>Thu, 04 Nov 2021 22:25:33 +0000</pubDate>
 		<dc:creator><![CDATA[mauricio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/wordpress/wp-content/uploads/2021/11/1.png</guid>
+		<guid isPermaLink="false">http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/1.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -104,7 +104,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost/wordpress/wp-content/uploads/2021/11/1.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/1.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021/11/1.png]]></wp:meta_value>
@@ -116,10 +116,10 @@
 							</item>
 					<item>
 		<title><![CDATA[2]]></title>
-		<link>http://localhost/wordpress/home/attachment/2/</link>
+		<link>http://mauricio-brito.soukick.ml/?attachment_id=60</link>
 		<pubDate>Thu, 04 Nov 2021 22:25:52 +0000</pubDate>
 		<dc:creator><![CDATA[mauricio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/wordpress/wp-content/uploads/2021/11/2.png</guid>
+		<guid isPermaLink="false">http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/2.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -137,7 +137,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost/wordpress/wp-content/uploads/2021/11/2.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/2.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021/11/2.png]]></wp:meta_value>
@@ -149,10 +149,10 @@
 							</item>
 					<item>
 		<title><![CDATA[3]]></title>
-		<link>http://localhost/wordpress/home/attachment/3/</link>
+		<link>http://mauricio-brito.soukick.ml/?attachment_id=61</link>
 		<pubDate>Thu, 04 Nov 2021 22:26:09 +0000</pubDate>
 		<dc:creator><![CDATA[mauricio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/wordpress/wp-content/uploads/2021/11/3.png</guid>
+		<guid isPermaLink="false">http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/3.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -170,7 +170,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost/wordpress/wp-content/uploads/2021/11/3.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/3.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021/11/3.png]]></wp:meta_value>
@@ -182,10 +182,10 @@
 							</item>
 					<item>
 		<title><![CDATA[Dragon Ball Super-1]]></title>
-		<link>http://localhost/wordpress/dragon-ball-super-1/</link>
+		<link>http://mauricio-brito.soukick.ml/dragon-ball-super-1/</link>
 		<pubDate>Thu, 04 Nov 2021 22:50:08 +0000</pubDate>
 		<dc:creator><![CDATA[mauricio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/wordpress/wp-content/uploads/2021/11/Dragon-Ball-Super-1.jpg</guid>
+		<guid isPermaLink="false">http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/Dragon-Ball-Super-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -203,7 +203,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost/wordpress/wp-content/uploads/2021/11/Dragon-Ball-Super-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/Dragon-Ball-Super-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021/11/Dragon-Ball-Super-1.jpg]]></wp:meta_value>
@@ -215,10 +215,10 @@
 							</item>
 					<item>
 		<title><![CDATA[Jujutsu Kaisen-1]]></title>
-		<link>http://localhost/wordpress/jujutsu-kaisen-1/</link>
+		<link>http://mauricio-brito.soukick.ml/jujutsu-kaisen-1/</link>
 		<pubDate>Thu, 04 Nov 2021 22:50:18 +0000</pubDate>
 		<dc:creator><![CDATA[mauricio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/wordpress/wp-content/uploads/2021/11/Jujutsu-Kaisen-1.jpg</guid>
+		<guid isPermaLink="false">http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/Jujutsu-Kaisen-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -236,7 +236,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost/wordpress/wp-content/uploads/2021/11/Jujutsu-Kaisen-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/Jujutsu-Kaisen-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021/11/Jujutsu-Kaisen-1.jpg]]></wp:meta_value>
@@ -248,10 +248,10 @@
 							</item>
 					<item>
 		<title><![CDATA[One Piece re-edition-1]]></title>
-		<link>http://localhost/wordpress/one-piece-re-edition-1/</link>
+		<link>http://mauricio-brito.soukick.ml/one-piece-re-edition-1/</link>
 		<pubDate>Thu, 04 Nov 2021 22:50:22 +0000</pubDate>
 		<dc:creator><![CDATA[mauricio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/wordpress/wp-content/uploads/2021/11/One-Piece-re-edition-1.jpg</guid>
+		<guid isPermaLink="false">http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/One-Piece-re-edition-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -269,7 +269,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost/wordpress/wp-content/uploads/2021/11/One-Piece-re-edition-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/One-Piece-re-edition-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021/11/One-Piece-re-edition-1.jpg]]></wp:meta_value>
@@ -281,10 +281,10 @@
 							</item>
 					<item>
 		<title><![CDATA[Capa-1]]></title>
-		<link>http://localhost/wordpress/capa-1/</link>
+		<link>http://mauricio-brito.soukick.ml/capa-1/</link>
 		<pubDate>Thu, 04 Nov 2021 22:50:30 +0000</pubDate>
 		<dc:creator><![CDATA[mauricio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/wordpress/wp-content/uploads/2021/11/Capa-1.jpg</guid>
+		<guid isPermaLink="false">http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/Capa-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -302,7 +302,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost/wordpress/wp-content/uploads/2021/11/Capa-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/Capa-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021/11/Capa-1.jpg]]></wp:meta_value>
@@ -314,10 +314,10 @@
 							</item>
 					<item>
 		<title><![CDATA[Naruto Next Generations-1]]></title>
-		<link>http://localhost/wordpress/naruto-next-generations-1/</link>
+		<link>http://mauricio-brito.soukick.ml/naruto-next-generations-1/</link>
 		<pubDate>Thu, 04 Nov 2021 22:50:37 +0000</pubDate>
 		<dc:creator><![CDATA[mauricio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/wordpress/wp-content/uploads/2021/11/Naruto-Next-Generations-1.jpg</guid>
+		<guid isPermaLink="false">http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/Naruto-Next-Generations-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -335,7 +335,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost/wordpress/wp-content/uploads/2021/11/Naruto-Next-Generations-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/Naruto-Next-Generations-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021/11/Naruto-Next-Generations-1.jpg]]></wp:meta_value>
@@ -347,10 +347,10 @@
 							</item>
 					<item>
 		<title><![CDATA[wallpaper_dragonballsuper-2]]></title>
-		<link>http://localhost/wordpress/wallpaper_dragonballsuper-2/</link>
+		<link>http://mauricio-brito.soukick.ml/wallpaper_dragonballsuper-2/</link>
 		<pubDate>Thu, 04 Nov 2021 22:53:19 +0000</pubDate>
 		<dc:creator><![CDATA[mauricio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/wordpress/wp-content/uploads/2021/11/wallpaper_dragonballsuper-2.jpg</guid>
+		<guid isPermaLink="false">http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/wallpaper_dragonballsuper-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -368,7 +368,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost/wordpress/wp-content/uploads/2021/11/wallpaper_dragonballsuper-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/wallpaper_dragonballsuper-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021/11/wallpaper_dragonballsuper-2.jpg]]></wp:meta_value>
@@ -380,10 +380,10 @@
 							</item>
 					<item>
 		<title><![CDATA[wallpaper_jujutso-kaisen-2]]></title>
-		<link>http://localhost/wordpress/wallpaper_jujutso-kaisen-2/</link>
+		<link>http://mauricio-brito.soukick.ml/wallpaper_jujutso-kaisen-2/</link>
 		<pubDate>Thu, 04 Nov 2021 22:53:25 +0000</pubDate>
 		<dc:creator><![CDATA[mauricio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/wordpress/wp-content/uploads/2021/11/wallpaper_jujutso-kaisen-2.jpg</guid>
+		<guid isPermaLink="false">http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/wallpaper_jujutso-kaisen-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -401,7 +401,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost/wordpress/wp-content/uploads/2021/11/wallpaper_jujutso-kaisen-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/wallpaper_jujutso-kaisen-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021/11/wallpaper_jujutso-kaisen-2.jpg]]></wp:meta_value>
@@ -413,10 +413,10 @@
 							</item>
 					<item>
 		<title><![CDATA[wallpaper_naruto]]></title>
-		<link>http://localhost/wordpress/wallpaper_naruto/</link>
+		<link>http://mauricio-brito.soukick.ml/wallpaper_naruto/</link>
 		<pubDate>Thu, 04 Nov 2021 22:53:32 +0000</pubDate>
 		<dc:creator><![CDATA[mauricio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/wordpress/wp-content/uploads/2021/11/wallpaper_naruto.jpg</guid>
+		<guid isPermaLink="false">http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/wallpaper_naruto.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -434,7 +434,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost/wordpress/wp-content/uploads/2021/11/wallpaper_naruto.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/wallpaper_naruto.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021/11/wallpaper_naruto.jpg]]></wp:meta_value>
@@ -446,10 +446,10 @@
 							</item>
 					<item>
 		<title><![CDATA[wallpaper_onepiece-2]]></title>
-		<link>http://localhost/wordpress/wallpaper_onepiece-2/</link>
+		<link>http://mauricio-brito.soukick.ml/wallpaper_onepiece-2/</link>
 		<pubDate>Thu, 04 Nov 2021 22:53:35 +0000</pubDate>
 		<dc:creator><![CDATA[mauricio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/wordpress/wp-content/uploads/2021/11/wallpaper_onepiece-2.jpg</guid>
+		<guid isPermaLink="false">http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/wallpaper_onepiece-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -467,7 +467,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost/wordpress/wp-content/uploads/2021/11/wallpaper_onepiece-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/wallpaper_onepiece-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021/11/wallpaper_onepiece-2.jpg]]></wp:meta_value>
@@ -479,10 +479,10 @@
 							</item>
 					<item>
 		<title><![CDATA[wallpaper_tokyoghoul]]></title>
-		<link>http://localhost/wordpress/wallpaper_tokyoghoul/</link>
+		<link>http://mauricio-brito.soukick.ml/wallpaper_tokyoghoul/</link>
 		<pubDate>Thu, 04 Nov 2021 22:53:37 +0000</pubDate>
 		<dc:creator><![CDATA[mauricio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/wordpress/wp-content/uploads/2021/11/wallpaper_tokyoghoul.jpg</guid>
+		<guid isPermaLink="false">http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/wallpaper_tokyoghoul.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -500,7 +500,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost/wordpress/wp-content/uploads/2021/11/wallpaper_tokyoghoul.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/wallpaper_tokyoghoul.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021/11/wallpaper_tokyoghoul.jpg]]></wp:meta_value>
@@ -512,10 +512,10 @@
 							</item>
 					<item>
 		<title><![CDATA[1571699820248]]></title>
-		<link>http://localhost/wordpress/home/attachment/1571699820248/</link>
+		<link>http://mauricio-brito.soukick.ml/?attachment_id=97</link>
 		<pubDate>Thu, 04 Nov 2021 22:54:27 +0000</pubDate>
 		<dc:creator><![CDATA[mauricio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/wordpress/wp-content/uploads/2021/11/1571699820248.jpg</guid>
+		<guid isPermaLink="false">http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/1571699820248.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -533,7 +533,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost/wordpress/wp-content/uploads/2021/11/1571699820248.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/1571699820248.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021/11/1571699820248.jpg]]></wp:meta_value>
@@ -545,10 +545,10 @@
 							</item>
 					<item>
 		<title><![CDATA[fundoJavaScript]]></title>
-		<link>http://localhost/wordpress/principal/fundojavascript/</link>
+		<link>http://mauricio-brito.soukick.ml/principal/fundojavascript/</link>
 		<pubDate>Thu, 11 Nov 2021 22:25:58 +0000</pubDate>
 		<dc:creator><![CDATA[mauricio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/wordpress/wp-content/uploads/2021/11/fundoJavaScript.jpg</guid>
+		<guid isPermaLink="false">http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/fundoJavaScript.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -566,7 +566,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost/wordpress/wp-content/uploads/2021/11/fundoJavaScript.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/fundoJavaScript.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021/11/fundoJavaScript.jpg]]></wp:meta_value>
@@ -578,10 +578,10 @@
 							</item>
 					<item>
 		<title><![CDATA[logo]]></title>
-		<link>http://localhost/wordpress/logo/</link>
+		<link>http://mauricio-brito.soukick.ml/logo/</link>
 		<pubDate>Thu, 11 Nov 2021 23:27:53 +0000</pubDate>
 		<dc:creator><![CDATA[mauricio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/wordpress/wp-content/uploads/2021/11/logo.png</guid>
+		<guid isPermaLink="false">http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/logo.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -599,7 +599,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost/wordpress/wp-content/uploads/2021/11/logo.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/logo.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021/11/logo.png]]></wp:meta_value>
@@ -611,10 +611,10 @@
 							</item>
 					<item>
 		<title><![CDATA[MT]]></title>
-		<link>http://localhost/wordpress/mt/</link>
+		<link>http://mauricio-brito.soukick.ml/mt/</link>
 		<pubDate>Thu, 11 Nov 2021 23:54:24 +0000</pubDate>
 		<dc:creator><![CDATA[mauricio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/wordpress/wp-content/uploads/2021/11/MT.png</guid>
+		<guid isPermaLink="false">http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/MT.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -632,7 +632,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost/wordpress/wp-content/uploads/2021/11/MT.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/MT.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021/11/MT.png]]></wp:meta_value>
@@ -644,10 +644,10 @@
 							</item>
 					<item>
 		<title><![CDATA[JavaScript-logo]]></title>
-		<link>http://localhost/wordpress/javascript-logo/</link>
+		<link>http://mauricio-brito.soukick.ml/javascript-logo/</link>
 		<pubDate>Fri, 12 Nov 2021 00:12:42 +0000</pubDate>
 		<dc:creator><![CDATA[mauricio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/wordpress/wp-content/uploads/2021/11/JavaScript-logo.png</guid>
+		<guid isPermaLink="false">http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/JavaScript-logo.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -665,7 +665,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost/wordpress/wp-content/uploads/2021/11/JavaScript-logo.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/JavaScript-logo.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021/11/JavaScript-logo.png]]></wp:meta_value>
@@ -677,10 +677,10 @@
 							</item>
 					<item>
 		<title><![CDATA[Python-logo]]></title>
-		<link>http://localhost/wordpress/python-logo/</link>
+		<link>http://mauricio-brito.soukick.ml/python-logo/</link>
 		<pubDate>Fri, 12 Nov 2021 00:12:44 +0000</pubDate>
 		<dc:creator><![CDATA[mauricio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/wordpress/wp-content/uploads/2021/11/Python-logo.jpg</guid>
+		<guid isPermaLink="false">http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/Python-logo.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -698,7 +698,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost/wordpress/wp-content/uploads/2021/11/Python-logo.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/Python-logo.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021/11/Python-logo.jpg]]></wp:meta_value>
@@ -710,10 +710,10 @@
 							</item>
 					<item>
 		<title><![CDATA[Olá, mundo!]]></title>
-		<link>http://localhost/wordpress/2021/11/03/ola-mundo/</link>
+		<link>http://mauricio-brito.soukick.ml/2021/11/03/ola-mundo/</link>
 		<pubDate>Thu, 04 Nov 2021 00:39:33 +0000</pubDate>
 		<dc:creator><![CDATA[mauricio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/wordpress/?p=1</guid>
+		<guid isPermaLink="false">http://mauricio-brito.soukick.ml/?p=1</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Boas-vindas ao WordPress. Esse é o seu primeiro post. Edite-o ou exclua-o, e então comece a escrever!</p>
@@ -752,111 +752,13 @@ Avatares de comentaristas vêm a partir do <a href="https://gravatar.com">Gravat
 							</wp:comment>
 					</item>
 					<item>
-		<title><![CDATA[Página de exemplo]]></title>
-		<link>http://localhost/wordpress/?page_id=2</link>
-		<pubDate>Thu, 04 Nov 2021 00:39:33 +0000</pubDate>
-		<dc:creator><![CDATA[mauricio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/wordpress/?page_id=2</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Esta é uma página de exemplo. É diferente de um post no blog porque ela permanecerá em um lugar e aparecerá na navegação do seu site na maioria dos temas. Muitas pessoas começam com uma página que as apresenta a possíveis visitantes do site. Ela pode dizer algo assim:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>Olá! Eu sou um mensageiro de bicicleta durante o dia, ator aspirante à noite, e este é o meu site. Eu moro em São Paulo, tenho um grande cachorro chamado Rex e gosto de tomar caipirinha (e banhos de chuva).</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>...ou alguma coisa assim:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>A Companhia de Miniaturas XYZ foi fundada em 1971, e desde então tem fornecido miniaturas de qualidade ao público. Localizada na cidade de Itu, a XYZ emprega mais de 2.000 pessoas e faz coisas grandiosas para a comunidade da cidade.</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>Como um novo usuário do WordPress, você deveria ir ao <a href="http://localhost/wordpress/wp-admin/">painel</a> para excluir essa página e criar novas páginas para o seu conteúdo. Divirta-se!</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2</wp:post_id>
-		<wp:post_date><![CDATA[2021-11-03 21:39:33]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-11-04 00:39:33]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-11-04 18:13:16]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-11-04 21:13:16]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[pagina-exemplo__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1636060396]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[pagina-exemplo]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Política de privacidade]]></title>
-		<link>http://localhost/wordpress/?page_id=3</link>
-		<pubDate>Thu, 04 Nov 2021 00:39:33 +0000</pubDate>
-		<dc:creator><![CDATA[mauricio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/wordpress/?page_id=3</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:heading --><h2>Quem somos</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Texto sugerido: </strong>O endereço do nosso site é: http://localhost/wordpress.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Comentários</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Texto sugerido: </strong>Quando os visitantes deixam comentários no site, coletamos os dados mostrados no formulário de comentários, além do endereço de IP e de dados do navegador do visitante, para auxiliar na detecção de spam.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>Uma sequência anonimizada de caracteres criada a partir do seu e-mail (também chamada de hash) poderá ser enviada para o Gravatar para verificar se você usa o serviço. A política de privacidade do Gravatar está disponível aqui: https://automattic.com/privacy/. Depois da aprovação do seu comentário, a foto do seu perfil fica visível publicamente junto de seu comentário.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Mídia</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Texto sugerido: </strong>Se você envia imagens para o site, evite enviar as que contenham dados de localização incorporados (EXIF GPS). Visitantes podem baixar estas imagens do site e extrair delas seus dados de localização.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Cookies</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Texto sugerido: </strong>Ao deixar um comentário no site, você poderá optar por salvar seu nome, e-mail e site nos cookies. Isso visa seu conforto, assim você não precisará preencher seus  dados novamente quando fizer outro comentário. Estes cookies duram um ano.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>Se você tem uma conta e acessa este site, um cookie temporário será criado para determinar se seu navegador aceita cookies. Ele não contém nenhum dado pessoal e será descartado quando você fechar seu navegador.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>Quando você acessa sua conta no site, também criamos vários cookies para salvar os dados da sua conta e suas escolhas de exibição de tela. Cookies de login são mantidos por dois dias e cookies de opções de tela por um ano. Se você selecionar &quot;Lembrar-me&quot;, seu acesso será mantido por duas semanas. Se você se desconectar da sua conta, os cookies de login serão removidos.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>Se você editar ou publicar um artigo, um cookie adicional será salvo no seu navegador. Este cookie não inclui nenhum dado pessoal e simplesmente indica o ID do post referente ao artigo que você acabou de editar. Ele expira depois de 1 dia.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Mídia incorporada de outros sites</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Texto sugerido: </strong>Artigos neste site podem incluir conteúdo incorporado como, por exemplo, vídeos, imagens, artigos, etc. Conteúdos incorporados de outros sites se comportam exatamente da mesma forma como se o visitante estivesse visitando o outro site.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>Estes sites podem coletar dados sobre você, usar cookies, incorporar rastreamento adicional de terceiros e monitorar sua interação com este conteúdo incorporado, incluindo sua interação com o conteúdo incorporado se você tem uma conta e está conectado com o site.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Com quem compartilhamos seus dados</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Texto sugerido: </strong>Se você solicitar uma redefinição de senha, seu endereço de IP será incluído no e-mail de redefinição de senha.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Por quanto tempo mantemos os seus dados</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Texto sugerido: </strong>Se você deixar um comentário, o comentário e os seus metadados são conservados indefinidamente. Fazemos isso para que seja possível reconhecer e aprovar automaticamente qualquer comentário posterior ao invés de retê-lo para moderação.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>Para usuários que se registram no nosso site (se houver), também guardamos as informações pessoais que fornecem no seu perfil de usuário. Todos os usuários podem ver, editar ou excluir suas informações pessoais a qualquer momento (só não é possível alterar o seu username). Os administradores de sites também podem ver e editar estas informações.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Quais os seus direitos sobre seus dados</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Texto sugerido: </strong>Se você tiver uma conta neste site ou se tiver deixado comentários, pode solicitar um arquivo exportado dos dados pessoais que mantemos sobre você, inclusive quaisquer dados que nos tenha fornecido. Também pode solicitar que removamos qualquer dado pessoal que mantemos sobre você. Isto não inclui nenhuns dados que somos obrigados a manter para propósitos administrativos, legais ou de segurança.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Para onde enviamos seus dados</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Texto sugerido: </strong>Comentários de visitantes podem ser marcados por um serviço automático de detecção de spam.</p><!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>3</wp:post_id>
-		<wp:post_date><![CDATA[2021-11-03 21:39:33]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-11-04 00:39:33]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-11-04 18:13:13]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-11-04 21:13:13]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[politica-de-privacidade__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[draft]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1636060393]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[politica-de-privacidade]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[home]]></title>
-		<link>http://localhost/wordpress/home/</link>
+		<link>http://mauricio-brito.soukick.ml/?page_id=10</link>
 		<pubDate>Thu, 04 Nov 2021 21:11:42 +0000</pubDate>
 		<dc:creator><![CDATA[mauricio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/wordpress/?page_id=10</guid>
+		<guid isPermaLink="false">http://mauricio-brito.soukick.ml/?page_id=10</guid>
 		<description></description>
-		<content:encoded><![CDATA[<img width="300" height="300" src="http://localhost/wordpress/wp-content/uploads/2021/11/1571699820248-300x300.jpg" alt="" loading="lazy" srcset="http://localhost/wordpress/wp-content/uploads/2021/11/1571699820248-300x300.jpg 300w, http://localhost/wordpress/wp-content/uploads/2021/11/1571699820248-150x150.jpg 150w, http://localhost/wordpress/wp-content/uploads/2021/11/1571699820248.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" />															
+		<content:encoded><![CDATA[<img width="300" height="300" src="http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/1571699820248-300x300.jpg" alt="" loading="lazy" srcset="http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/1571699820248-300x300.jpg 300w, http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/1571699820248-150x150.jpg 150w, http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/1571699820248.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" />															
 			<h3>Mauricio</h3>		
 		<p>Estudante do ensino médio integrado ao curso técnico de Informática para Internet no Instituto Federal de São Paulo, buscando oportunidade de início de carreira na área de desenvolvimento de software.<br></p>		
 			<a href="https://www.linkedin.com/in/mauricio-teixeira-37a932196/" target="_blank" role="button" rel="noopener">
@@ -888,28 +790,28 @@ Avatares de comentaristas vêm a partir do <a href="https://gravatar.com">Gravat
 											</a>
 			<h3>Trabalhos</h3>		
                 <ul><li data-load-more-status="0" data-first-init="1" data-filter="*">All</li><li data-load-more-status="0" data-first-init="0" data-filter=".eael-cf-gallery-item">Gallery Item</li></ul>
-				<img src="http://localhost/wordpress/wp-content/uploads/2021/11/1.png" data-lazy-src="http://localhost/wordpress/wp-content/uploads/2021/11/1.png" alt="">
-                            <a href="http://localhost/wordpress/wp-content/uploads/2021/11/1.png" data-elementor-open-lightbox="no">
+				<img src="http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/1.png" data-lazy-src="http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/1.png" alt="">
+                            <a href="http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/1.png" data-elementor-open-lightbox="no">
             </a><a href="https://www.shueisha-mteixeira.com.br/"target="_blank"></a>
                         </a><h5>Shuesha POC</h5><p>Site para apresentação de conteúdos produzidos pela empresa Shueisha</p>
-				<img src="http://localhost/wordpress/wp-content/uploads/2021/11/2.png" data-lazy-src="http://localhost/wordpress/wp-content/uploads/2021/11/2.png" alt="">
-                            <a href="http://localhost/wordpress/wp-content/uploads/2021/11/2.png" data-elementor-open-lightbox="no">
+				<img src="http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/2.png" data-lazy-src="http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/2.png" alt="">
+                            <a href="http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/2.png" data-elementor-open-lightbox="no">
             </a><a href="https://kids-digital.netlify.app/"target="_blank"></a>
                         </a><h5>Kids Digital</h5><p>Site para alfabetização digital de crianças de 7 a 10 anos</p>
-				<img src="http://localhost/wordpress/wp-content/uploads/2021/11/3.png" data-lazy-src="http://localhost/wordpress/wp-content/uploads/2021/11/3.png" alt="">
-                            <a href="http://localhost/wordpress/wp-content/uploads/2021/11/3.png" data-elementor-open-lightbox="no">
+				<img src="http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/3.png" data-lazy-src="http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/3.png" alt="">
+                            <a href="http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/3.png" data-elementor-open-lightbox="no">
             </a><a href="#"></a>
                         </a><h5>Rede LMM</h5><p>Site - destinado à pessoas que queiram encontrar ou empregar pessoas</p>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>10</wp:post_id>
 		<wp:post_date><![CDATA[2021-11-04 18:11:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-11-04 21:11:42]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-11-11 19:14:43]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-11-11 22:14:43]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-12-09 18:32:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-12-09 21:32:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[home]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_name><![CDATA[home__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
@@ -933,7 +835,7 @@ Avatares de comentaristas vêm a partir do <a href="https://gravatar.com">Gravat
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"48f6de1","elType":"section","settings":{"content_width":{"unit":"px","size":1600,"sizes":[]},"gap":"wide","structure":"20"},"elements":[{"id":"76714c5","elType":"column","settings":{"_column_size":50,"_inline_size":15.405},"elements":[{"id":"8fbcd5a","elType":"widget","settings":{"image":{"url":"http:\/\/localhost\/wordpress\/wp-content\/uploads\/2021\/11\/1571699820248.jpg","id":97,"alt":"","source":"library"},"align":"center","image_size":"medium","_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"image"}],"isInner":false},{"id":"724a662","elType":"column","settings":{"_column_size":50,"_inline_size":84.595},"elements":[{"id":"b6ff549","elType":"widget","settings":{"editor":"","text_color":"#000000","typography_typography":"custom","typography_font_family":"Roboto","typography_font_weight":"400"},"elements":[],"widgetType":"text-editor"},{"id":"bdf66f5","elType":"widget","settings":{"title":"Mauricio","header_size":"h3","align":"center","title_color":"#000000","typography_typography":"custom","typography_font_family":"Roboto","typography_font_weight":"600","text_shadow_text_shadow_type":"yes","text_shadow_text_shadow":{"horizontal":0,"vertical":0,"blur":"","color":"rgba(0,0,0,0.3)"}},"elements":[],"widgetType":"heading"},{"id":"30acae0","elType":"widget","settings":{"editor":"<p><span style=\"color: rgba(0, 0, 0, 0.9); font-family: -apple-system, system-ui, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, &quot;Fira Sans&quot;, Ubuntu, Oxygen, &quot;Oxygen Sans&quot;, Cantarell, &quot;Droid Sans&quot;, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Lucida Grande&quot;, Helvetica, Arial, sans-serif; font-size: 14px;\">Estudante do ensino m\u00e9dio integrado ao curso t\u00e9cnico de Inform\u00e1tica para Internet no Instituto Federal de S\u00e3o Paulo, buscando oportunidade de in\u00edcio de carreira na \u00e1rea de desenvolvimento de software.<\/span><br><\/p>","align":"left","text_color":"#000000","typography_typography":"custom","typography_font_family":"Roboto","typography_font_weight":"400","typography_line_height":{"unit":"px","size":20,"sizes":[]}},"elements":[],"widgetType":"text-editor"},{"id":"c7d01fd","elType":"widget","settings":{"text":"Clique aqui","link":{"url":"https:\/\/www.linkedin.com\/in\/mauricio-teixeira-37a932196\/","is_external":"on","nofollow":"","custom_attributes":""},"align":"justify","background_color":"#232323"},"elements":[],"widgetType":"button"}],"isInner":false}],"isInner":false},{"id":"0a8ae1a","elType":"section","settings":[],"elements":[{"id":"df39f77","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"bbaca56","elType":"widget","settings":[],"elements":[],"widgetType":"spacer"},{"id":"7e66368","elType":"widget","settings":{"title":"Contato","header_size":"h3","align":"center","title_color":"#242424","typography_typography":"custom","typography_font_family":"Roboto","typography_font_weight":"600"},"elements":[],"widgetType":"heading"},{"id":"b0b1b2c","elType":"widget","settings":{"view":"inline","icon_list":[{"text":"","selected_icon":{"value":"fab fa-linkedin","library":"fa-brands"},"_id":"b9e56da","link":{"url":"https:\/\/www.linkedin.com\/in\/mauricio-teixeira-37a932196\/","is_external":"on","nofollow":"","custom_attributes":""}},{"text":"","selected_icon":{"value":"fab fa-github","library":"fa-brands"},"_id":"f984dfe","link":{"url":"https:\/\/github.com\/m-brito","is_external":"on","nofollow":"","custom_attributes":""}},{"text":"","selected_icon":{"value":"fab fa-instagram","library":"fa-brands"},"_id":"1bee02b","link":{"url":"https:\/\/www.instagram.com\/mauricio.briito\/","is_external":"on","nofollow":"","custom_attributes":""}}],"space_between":{"unit":"px","size":50,"sizes":[]},"icon_align":"center","divider":"yes","divider_height":{"unit":"%","size":20,"sizes":[]},"icon_color":"#252525","icon_size":{"unit":"px","size":57,"sizes":[]}},"elements":[],"widgetType":"icon-list"}],"isInner":false}],"isInner":false},{"id":"94144ad","elType":"section","settings":[],"elements":[{"id":"e457718","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"ee90ed3","elType":"widget","settings":{"social_icon_list":[{"social_icon":{"value":"fab fa-facebook","library":"fa-brands"},"_id":"cb39d18"},{"social_icon":{"value":"fab fa-twitter","library":"fa-brands"},"_id":"18e6e47"},{"social_icon":{"value":"fab fa-youtube","library":"fa-brands"},"_id":"a1f846e"}],"icon_size":{"unit":"px","size":53,"sizes":[]},"hover_animation":"float","_animation":"none"},"elements":[],"widgetType":"social-icons"}],"isInner":false}],"isInner":false},{"id":"7dbfc35","elType":"section","settings":[],"elements":[{"id":"6b9b3c4","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"8c711b0","elType":"widget","settings":[],"elements":[],"widgetType":"spacer"},{"id":"8e410f0","elType":"widget","settings":{"title":"Trabalhos","header_size":"h3","align":"center","title_color":"#010101"},"elements":[],"widgetType":"heading"},{"id":"3fce90b","elType":"widget","settings":{"eael_fg_items_to_show":"3","eael_fg_filter_duration":500,"eael_fg_grid_item_height":"300","eael_fg_caption_style":"card","eael_fg_all_label_text":"All","eael_fg_controls":[{"eael_fg_control":"Gallery Item","_id":"e7cf13a"}],"eael_fg_gallery_items":[{"eael_fg_gallery_item_name":"Shuesha POC","_id":"a4b080f","fg_video_gallery_switch":"","eael_fg_gallery_item_video_link":"https:\/\/www.youtube.com\/watch?v=kB4U67tiQLA","fg_item_price":"$20.00","fg_item_ratings":"5","fg_item_cat":"Essential Addons","eael_fg_gallery_item_content":"<p>Site para apresenta\u00e7\u00e3o de conte\u00fados produzidos pela empresa Shueisha<\/p>","eael_fg_gallery_img":{"url":"http:\/\/localhost\/wordpress\/wp-content\/uploads\/2021\/11\/1.png","id":59,"alt":"","source":"library"},"eael_fg_gallery_img_link":{"url":"https:\/\/www.shueisha-mteixeira.com.br\/","is_external":"on","nofollow":"","custom_attributes":""}},{"eael_fg_gallery_item_name":"Kids Digital","_id":"53fa422","eael_fg_gallery_item_video_link":"https:\/\/www.youtube.com\/watch?v=kB4U67tiQLA","fg_item_price":"$20.00","fg_item_ratings":"5","fg_item_cat":"Essential Addons","eael_fg_gallery_item_content":"<p>Site para alfabetiza\u00e7\u00e3o digital de crian\u00e7as de 7 a 10 anos<\/p>","eael_fg_gallery_img":{"url":"http:\/\/localhost\/wordpress\/wp-content\/uploads\/2021\/11\/2.png","id":60,"alt":"","source":"library"},"eael_fg_gallery_img_link":{"url":"https:\/\/kids-digital.netlify.app\/","is_external":"on","nofollow":"","custom_attributes":""}},{"eael_fg_gallery_item_name":"Rede LMM","_id":"c313746","eael_fg_gallery_item_video_link":"https:\/\/www.youtube.com\/watch?v=kB4U67tiQLA","fg_item_price":"$20.00","fg_item_ratings":"5","fg_item_cat":"Essential Addons","eael_fg_gallery_item_content":"<p>Site - destinado \u00e0 pessoas que queiram encontrar ou empregar pessoas<\/p>","eael_fg_gallery_img":{"url":"http:\/\/localhost\/wordpress\/wp-content\/uploads\/2021\/11\/3.png","id":61,"alt":"","source":"library"}}],"images_per_page":6,"load_more_text":"Load More","nomore_items_text":"No more items!","eael_fg_video_item_icon_hover_scale":"1.1","fg_sf_placeholder":"Search Gallery Item..."},"elements":[],"widgetType":"eael-filterable-gallery"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+		<wp:meta_value><![CDATA[[{"id":"48f6de1","elType":"section","settings":{"content_width":{"unit":"px","size":1600,"sizes":[]},"gap":"wide","structure":"20"},"elements":[{"id":"76714c5","elType":"column","settings":{"_column_size":50,"_inline_size":15.405},"elements":[{"id":"8fbcd5a","elType":"widget","settings":{"image":{"url":"http:\/\/mauricio-brito.soukick.ml\/wp-content\/uploads\/2021\/11\/1571699820248.jpg","id":97,"alt":"","source":"library"},"align":"center","image_size":"medium","_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"image"}],"isInner":false},{"id":"724a662","elType":"column","settings":{"_column_size":50,"_inline_size":84.595},"elements":[{"id":"b6ff549","elType":"widget","settings":{"editor":"","text_color":"#000000","typography_typography":"custom","typography_font_family":"Roboto","typography_font_weight":"400"},"elements":[],"widgetType":"text-editor"},{"id":"bdf66f5","elType":"widget","settings":{"title":"Mauricio","header_size":"h3","align":"center","title_color":"#000000","typography_typography":"custom","typography_font_family":"Roboto","typography_font_weight":"600","text_shadow_text_shadow_type":"yes","text_shadow_text_shadow":{"horizontal":0,"vertical":0,"blur":"","color":"rgba(0,0,0,0.3)"}},"elements":[],"widgetType":"heading"},{"id":"30acae0","elType":"widget","settings":{"editor":"<p><span style=\"color: rgba(0, 0, 0, 0.9); font-family: -apple-system, system-ui, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, &quot;Fira Sans&quot;, Ubuntu, Oxygen, &quot;Oxygen Sans&quot;, Cantarell, &quot;Droid Sans&quot;, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Lucida Grande&quot;, Helvetica, Arial, sans-serif; font-size: 14px;\">Estudante do ensino m\u00e9dio integrado ao curso t\u00e9cnico de Inform\u00e1tica para Internet no Instituto Federal de S\u00e3o Paulo, buscando oportunidade de in\u00edcio de carreira na \u00e1rea de desenvolvimento de software.<\/span><br><\/p>","align":"left","text_color":"#000000","typography_typography":"custom","typography_font_family":"Roboto","typography_font_weight":"400","typography_line_height":{"unit":"px","size":20,"sizes":[]}},"elements":[],"widgetType":"text-editor"},{"id":"c7d01fd","elType":"widget","settings":{"text":"Clique aqui","link":{"url":"https:\/\/www.linkedin.com\/in\/mauricio-teixeira-37a932196\/","is_external":"on","nofollow":"","custom_attributes":""},"align":"justify","background_color":"#232323"},"elements":[],"widgetType":"button"}],"isInner":false}],"isInner":false},{"id":"0a8ae1a","elType":"section","settings":[],"elements":[{"id":"df39f77","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"bbaca56","elType":"widget","settings":[],"elements":[],"widgetType":"spacer"},{"id":"7e66368","elType":"widget","settings":{"title":"Contato","header_size":"h3","align":"center","title_color":"#242424","typography_typography":"custom","typography_font_family":"Roboto","typography_font_weight":"600"},"elements":[],"widgetType":"heading"},{"id":"b0b1b2c","elType":"widget","settings":{"view":"inline","icon_list":[{"text":"","selected_icon":{"value":"fab fa-linkedin","library":"fa-brands"},"_id":"b9e56da","link":{"url":"https:\/\/www.linkedin.com\/in\/mauricio-teixeira-37a932196\/","is_external":"on","nofollow":"","custom_attributes":""}},{"text":"","selected_icon":{"value":"fab fa-github","library":"fa-brands"},"_id":"f984dfe","link":{"url":"https:\/\/github.com\/m-brito","is_external":"on","nofollow":"","custom_attributes":""}},{"text":"","selected_icon":{"value":"fab fa-instagram","library":"fa-brands"},"_id":"1bee02b","link":{"url":"https:\/\/www.instagram.com\/mauricio.briito\/","is_external":"on","nofollow":"","custom_attributes":""}}],"space_between":{"unit":"px","size":50,"sizes":[]},"icon_align":"center","divider":"yes","divider_height":{"unit":"%","size":20,"sizes":[]},"icon_color":"#252525","icon_size":{"unit":"px","size":57,"sizes":[]}},"elements":[],"widgetType":"icon-list"}],"isInner":false}],"isInner":false},{"id":"94144ad","elType":"section","settings":[],"elements":[{"id":"e457718","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"ee90ed3","elType":"widget","settings":{"social_icon_list":[{"social_icon":{"value":"fab fa-facebook","library":"fa-brands"},"_id":"cb39d18"},{"social_icon":{"value":"fab fa-twitter","library":"fa-brands"},"_id":"18e6e47"},{"social_icon":{"value":"fab fa-youtube","library":"fa-brands"},"_id":"a1f846e"}],"icon_size":{"unit":"px","size":53,"sizes":[]},"hover_animation":"float","_animation":"none"},"elements":[],"widgetType":"social-icons"}],"isInner":false}],"isInner":false},{"id":"7dbfc35","elType":"section","settings":[],"elements":[{"id":"6b9b3c4","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"8c711b0","elType":"widget","settings":[],"elements":[],"widgetType":"spacer"},{"id":"8e410f0","elType":"widget","settings":{"title":"Trabalhos","header_size":"h3","align":"center","title_color":"#010101"},"elements":[],"widgetType":"heading"},{"id":"3fce90b","elType":"widget","settings":{"eael_fg_items_to_show":"3","eael_fg_filter_duration":500,"eael_fg_grid_item_height":"300","eael_fg_caption_style":"card","eael_fg_all_label_text":"All","eael_fg_controls":[{"eael_fg_control":"Gallery Item","_id":"e7cf13a"}],"eael_fg_gallery_items":[{"eael_fg_gallery_item_name":"Shuesha POC","_id":"a4b080f","fg_video_gallery_switch":"","eael_fg_gallery_item_video_link":"https:\/\/www.youtube.com\/watch?v=kB4U67tiQLA","fg_item_price":"$20.00","fg_item_ratings":"5","fg_item_cat":"Essential Addons","eael_fg_gallery_item_content":"<p>Site para apresenta\u00e7\u00e3o de conte\u00fados produzidos pela empresa Shueisha<\/p>","eael_fg_gallery_img":{"url":"http:\/\/mauricio-brito.soukick.ml\/wp-content\/uploads\/2021\/11\/1.png","id":59,"alt":"","source":"library"},"eael_fg_gallery_img_link":{"url":"https:\/\/www.shueisha-mteixeira.com.br\/","is_external":"on","nofollow":"","custom_attributes":""}},{"eael_fg_gallery_item_name":"Kids Digital","_id":"53fa422","eael_fg_gallery_item_video_link":"https:\/\/www.youtube.com\/watch?v=kB4U67tiQLA","fg_item_price":"$20.00","fg_item_ratings":"5","fg_item_cat":"Essential Addons","eael_fg_gallery_item_content":"<p>Site para alfabetiza\u00e7\u00e3o digital de crian\u00e7as de 7 a 10 anos<\/p>","eael_fg_gallery_img":{"url":"http:\/\/mauricio-brito.soukick.ml\/wp-content\/uploads\/2021\/11\/2.png","id":60,"alt":"","source":"library"},"eael_fg_gallery_img_link":{"url":"https:\/\/kids-digital.netlify.app\/","is_external":"on","nofollow":"","custom_attributes":""}},{"eael_fg_gallery_item_name":"Rede LMM","_id":"c313746","eael_fg_gallery_item_video_link":"https:\/\/www.youtube.com\/watch?v=kB4U67tiQLA","fg_item_price":"$20.00","fg_item_ratings":"5","fg_item_cat":"Essential Addons","eael_fg_gallery_item_content":"<p>Site - destinado \u00e0 pessoas que queiram encontrar ou empregar pessoas<\/p>","eael_fg_gallery_img":{"url":"http:\/\/mauricio-brito.soukick.ml\/wp-content\/uploads\/2021\/11\/3.png","id":61,"alt":"","source":"library"}}],"images_per_page":6,"load_more_text":"Load More","nomore_items_text":"No more items!","eael_fg_video_item_icon_hover_scale":"1.1","fg_sf_placeholder":"Search Gallery Item..."},"elements":[],"widgetType":"eael-filterable-gallery"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
@@ -944,10 +846,6 @@ Avatares de comentaristas vêm a partir do <a href="https://gravatar.com">Gravat
 		<wp:meta_value><![CDATA[a:1:{s:18:"eael_ext_toc_title";s:17:"Table of Contents";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:10:{s:5:"image";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:3:{s:5:"image";i:1;s:5:"align";i:1;s:10:"image_size";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:5;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:12:"_inline_size";i:5;}}}}s:11:"text-editor";a:3:{s:5:"count";i:2;s:15:"control_percent";i:4;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:2;}}s:5:"style";a:1:{s:13:"section_style";a:6:{s:10:"text_color";i:2;s:21:"typography_typography";i:2;s:22:"typography_font_family";i:2;s:22:"typography_font_weight";i:2;s:5:"align";i:1;s:22:"typography_line_height";i:1;}}}}s:7:"heading";a:3:{s:5:"count";i:3;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:3;s:11:"header_size";i:3;s:5:"align";i:3;}}s:5:"style";a:1:{s:19:"section_title_style";a:6:{s:11:"title_color";i:3;s:21:"typography_typography";i:2;s:22:"typography_font_family";i:2;s:22:"typography_font_weight";i:2;s:28:"text_shadow_text_shadow_type";i:1;s:23:"text_shadow_text_shadow";i:1;}}}}s:6:"button";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_button";a:2:{s:4:"link";i:1;s:5:"align";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:1:{s:16:"background_color";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:4;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:6:"layout";a:2:{s:14:"section_layout";a:2:{s:13:"content_width";i:1;s:3:"gap";i:1;}s:17:"section_structure";a:1:{s:9:"structure";i:1;}}}}s:6:"spacer";a:3:{s:5:"count";i:2;s:15:"control_percent";i:0;s:8:"controls";a:0:{}}s:9:"icon-list";a:3:{s:5:"count";i:1;s:15:"control_percent";i:5;s:8:"controls";a:2:{s:7:"content";a:1:{s:12:"section_icon";a:2:{s:4:"view";i:1;s:9:"icon_list";i:1;}}s:5:"style";a:2:{s:17:"section_icon_list";a:4:{s:13:"space_between";i:1;s:10:"icon_align";i:1;s:7:"divider";i:1;s:14:"divider_height";i:1;}s:18:"section_icon_style";a:2:{s:10:"icon_color";i:1;s:9:"icon_size";i:1;}}}}s:12:"social-icons";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:19:"section_social_icon";a:1:{s:16:"social_icon_list";i:1;}}s:5:"style";a:2:{s:20:"section_social_style";a:1:{s:9:"icon_size";i:1;}s:20:"section_social_hover";a:1:{s:15:"hover_animation";i:1;}}s:8:"advanced";a:1:{s:15:"section_effects";a:1:{s:10:"_animation";i:1;}}}}s:23:"eael-filterable-gallery";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:3:{s:24:"eael_section_fg_settings";a:2:{s:21:"eael_fg_items_to_show";i:1;s:21:"eael_fg_caption_style";i:1;}s:32:"eael_section_fg_control_settings";a:1:{s:16:"eael_fg_controls";i:1;}s:29:"eael_section_fg_grid_settings";a:1:{s:21:"eael_fg_gallery_items";i:1;}}}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
@@ -955,13 +853,25 @@ Avatares de comentaristas vêm a partir do <a href="https://gravatar.com">Gravat
 		<wp:meta_key><![CDATA[_happyaddons_elements_cache]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1639085557]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[home]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Kit padrão]]></title>
-		<link>http://localhost/wordpress/?elementor_library=kit-padrao</link>
+		<link>http://mauricio-brito.soukick.ml/?elementor_library=kit-padrao</link>
 		<pubDate>Thu, 04 Nov 2021 21:17:28 +0000</pubDate>
 		<dc:creator><![CDATA[mauricio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/wordpress/?p=15</guid>
+		<guid isPermaLink="false">http://mauricio-brito.soukick.ml/?p=15</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1010,13 +920,13 @@ Avatares de comentaristas vêm a partir do <a href="https://gravatar.com">Gravat
 							</item>
 					<item>
 		<title><![CDATA[principal]]></title>
-		<link>http://localhost/wordpress/principal/</link>
+		<link>http://mauricio-brito.soukick.ml/principal/</link>
 		<pubDate>Thu, 11 Nov 2021 22:05:18 +0000</pubDate>
 		<dc:creator><![CDATA[mauricio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/wordpress/?page_id=108</guid>
+		<guid isPermaLink="false">http://mauricio-brito.soukick.ml/?page_id=108</guid>
 		<description></description>
 		<content:encoded><![CDATA[<a href="">
-							<img width="47" height="24" src="http://localhost/wordpress/wp-content/uploads/2021/11/MT.png" alt="" loading="lazy" />								</a>
+							<img width="47" height="24" src="http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/MT.png" alt="" loading="lazy" />								</a>
 					<ul>
 							<li>
 											<a href="#sobre">
@@ -1039,6 +949,11 @@ Avatares de comentaristas vêm a partir do <a href="https://gravatar.com">Gravat
 											</a>
 									</li>
 								<li>
+											<a href="http://mauricio-brito.soukick.ml/formulario/" target="_blank" rel="noopener">
+											Contato
+											</a>
+									</li>
+								<li>
 											<a href="#rodape">
 											Fim
 											</a>
@@ -1053,38 +968,42 @@ Avatares de comentaristas vêm a partir do <a href="https://gravatar.com">Gravat
 											<a href="https://github.com/m-brito" target="_blank" rel="noopener">
 											</a>
 									</li>
+								<li>
+											<a href="http://mauricio-brito.soukick.ml/formulario/" target="_blank" rel="noopener">
+											</a>
+									</li>
 						</ul>
 			<h3>Maurício Brito Teixeira</h3>		
 		<p>Estudante do ensino médio integrado ao curso técnico de Informática para Internet no Instituto Federal de São Paulo, buscando oportunidade de início de carreira na área de desenvolvimento de software.</p>		
-			<a role="button">
-						Clique aqui
+			<a href="http://mauricio-brito.soukick.ml/wp-content/uploads/2021/12/Curriculo-Mauricio.pdf" target="_blank" role="button" rel="noopener">
+						Curriculo
 					</a>
 			<h3>Competencias</h3>		
-				<img src="http://localhost/wordpress/wp-content/uploads/2021/11/html-logo.jpg" data-lazy-src="http://localhost/wordpress/wp-content/uploads/2021/11/html-logo.jpg" alt=""></a><h5>HTML</h5>
-				<img src="http://localhost/wordpress/wp-content/uploads/2021/11/JavaScript-logo.png" data-lazy-src="http://localhost/wordpress/wp-content/uploads/2021/11/JavaScript-logo.png" alt=""></a><h5>Java Script</h5>
-				<img src="http://localhost/wordpress/wp-content/uploads/2021/11/css-logo.jpg" data-lazy-src="http://localhost/wordpress/wp-content/uploads/2021/11/css-logo.jpg" alt=""></a><h5>CSS</h5>
-				<img src="http://localhost/wordpress/wp-content/uploads/2021/11/Java-logo.jpg" data-lazy-src="http://localhost/wordpress/wp-content/uploads/2021/11/Java-logo.jpg" alt=""></a><h5>Java</h5>
-				<img src="http://localhost/wordpress/wp-content/uploads/2021/11/Python-logo.jpg" data-lazy-src="http://localhost/wordpress/wp-content/uploads/2021/11/Python-logo.jpg" alt=""></a><h5>Python</h5>
-				<img src="http://localhost/wordpress/wp-content/uploads/2021/11/MySQL-logo.jpg" data-lazy-src="http://localhost/wordpress/wp-content/uploads/2021/11/MySQL-logo.jpg" alt=""></a><h5>MySQL</h5>            
+				<img src="http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/html-logo.jpg" data-lazy-src="http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/html-logo.jpg" alt=""></a><h5>HTML</h5>
+				<img src="http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/JavaScript-logo.png" data-lazy-src="http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/JavaScript-logo.png" alt=""></a><h5>Java Script</h5>
+				<img src="http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/css-logo.jpg" data-lazy-src="http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/css-logo.jpg" alt=""></a><h5>CSS</h5>
+				<img src="http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/Java-logo.jpg" data-lazy-src="http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/Java-logo.jpg" alt=""></a><h5>Java</h5>
+				<img src="http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/Python-logo.jpg" data-lazy-src="http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/Python-logo.jpg" alt=""></a><h5>Python</h5>
+				<img src="http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/MySQL-logo.jpg" data-lazy-src="http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/MySQL-logo.jpg" alt=""></a><h5>MySQL</h5>            
 			<h3>Projetos</h3>		
                 <ul><li data-load-more-status="0" data-first-init="1" data-filter="*">All</li><li data-load-more-status="0" data-first-init="0" data-filter=".eael-cf-gallery-item">Gallery Item</li></ul>
-				<img src="http://localhost/wordpress/wp-content/uploads/2021/11/1.png" data-lazy-src="http://localhost/wordpress/wp-content/uploads/2021/11/1.png" alt="">
-                            <a href="http://localhost/wordpress/wp-content/uploads/2021/11/1.png" data-elementor-open-lightbox="no">
+				<img src="http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/1.png" data-lazy-src="http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/1.png" alt="">
+                            <a href="http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/1.png" data-elementor-open-lightbox="no">
             </a><a href="https://www.shueisha-mteixeira.com.br/"target="_blank"></a>
                         </a><h5>Shuesha POC</h5><p>Site para apresentação de conteúdos produzidos pela empresa Shueisha</p>
-				<img src="http://localhost/wordpress/wp-content/uploads/2021/11/2.png" data-lazy-src="http://localhost/wordpress/wp-content/uploads/2021/11/2.png" alt="">
-                            <a href="http://localhost/wordpress/wp-content/uploads/2021/11/2.png" data-elementor-open-lightbox="no">
+				<img src="http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/2.png" data-lazy-src="http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/2.png" alt="">
+                            <a href="http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/2.png" data-elementor-open-lightbox="no">
             </a><a href="https://kids-digital.netlify.app/"target="_blank"></a>
                         </a><h5>Kids Digital</h5><p>Site para alfabetização digital de crianças de 7 a 10 anos</p>
-				<img src="http://localhost/wordpress/wp-content/uploads/2021/11/3.png" data-lazy-src="http://localhost/wordpress/wp-content/uploads/2021/11/3.png" alt="">
-                            <a href="http://localhost/wordpress/wp-content/uploads/2021/11/3.png" data-elementor-open-lightbox="no">
+				<img src="http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/3.png" data-lazy-src="http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/3.png" alt="">
+                            <a href="http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/3.png" data-elementor-open-lightbox="no">
             </a><a href="#"></a>
                         </a><h5>Rede LMM</h5><p>Site - destinado à pessoas que queiram encontrar ou empregar pessoas</p>
 			<h3>Formação</h3>		
-															<img width="200" height="200" src="http://localhost/wordpress/wp-content/uploads/2021/11/logo-ifsp.jpg" alt="" loading="lazy" srcset="http://localhost/wordpress/wp-content/uploads/2021/11/logo-ifsp.jpg 200w, http://localhost/wordpress/wp-content/uploads/2021/11/logo-ifsp-150x150.jpg 150w" sizes="(max-width: 200px) 100vw, 200px" />															
+															<img width="200" height="200" src="http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/logo-ifsp.jpg" alt="" loading="lazy" srcset="http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/logo-ifsp.jpg 200w, http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/logo-ifsp-150x150.jpg 150w" sizes="(max-width: 200px) 100vw, 200px" />															
 		<p>Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - IFSP&nbsp;</p><p style="color: #ffffff; font-family: 'Roboto Slab', sans-serif;">Ensino médio, Informática para Internet</p><p style="color: #ffffff; font-family: 'Roboto Slab', sans-serif;">2019 – 2021</p>		
 		<p>MicroPRO - Qualificação Profissional</p><p>Analista em Suporte Técnico<br></p>		
-															<img width="200" height="200" src="http://localhost/wordpress/wp-content/uploads/2021/11/micropro-logo.jpg" alt="" loading="lazy" srcset="http://localhost/wordpress/wp-content/uploads/2021/11/micropro-logo.jpg 200w, http://localhost/wordpress/wp-content/uploads/2021/11/micropro-logo-150x150.jpg 150w" sizes="(max-width: 200px) 100vw, 200px" />															
+															<img width="200" height="200" src="http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/micropro-logo.jpg" alt="" loading="lazy" srcset="http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/micropro-logo.jpg 200w, http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/micropro-logo-150x150.jpg 150w" sizes="(max-width: 200px) 100vw, 200px" />															
 			<h3>Carreira</h3>		
 				<h3>
 						Maratona InterIFs - Ranking					
@@ -1094,7 +1013,7 @@ Avatares de comentaristas vêm a partir do <a href="https://gravatar.com">Gravat
 										Conquista da 14ª posição pela equipe TLEtubbies
 									</li>
 						</ul>
-															<img width="420" height="382" src="http://localhost/wordpress/wp-content/uploads/2021/11/maratona-interif1.png" alt="" loading="lazy" srcset="http://localhost/wordpress/wp-content/uploads/2021/11/maratona-interif1.png 420w, http://localhost/wordpress/wp-content/uploads/2021/11/maratona-interif1-300x273.png 300w" sizes="(max-width: 420px) 100vw, 420px" />															
+															<img width="420" height="382" src="http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/maratona-interif1.png" alt="" loading="lazy" srcset="http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/maratona-interif1.png 420w, http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/maratona-interif1-300x273.png 300w" sizes="(max-width: 420px) 100vw, 420px" />															
 			<a href="#sobre" role="button">
 						Inicio ↑
 					</a>
@@ -1103,8 +1022,8 @@ Avatares de comentaristas vêm a partir do <a href="https://gravatar.com">Gravat
 		<wp:post_id>108</wp:post_id>
 		<wp:post_date><![CDATA[2021-11-11 19:05:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-11-11 22:05:18]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-12-02 19:18:52]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-12-02 22:18:52]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-12-09 19:49:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-12-09 22:49:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[principal]]></wp:post_name>
@@ -1140,7 +1059,7 @@ Avatares de comentaristas vêm a partir do <a href="https://gravatar.com">Gravat
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"96a30f9","elType":"section","settings":{"structure":"30","height":"min-height","custom_height":{"unit":"px","size":100,"sizes":[]},"background_background":"classic","_element_id":"menu","__globals__":{"background_color":"globals\/colors?id=3224ac4"},"hide_tablet":"hidden-tablet","hide_mobile":"hidden-mobile"},"elements":[{"id":"17d6db1","elType":"column","settings":{"_column_size":33,"_inline_size":10,"content_position":"center","align":"center","html_tag":"div"},"elements":[{"id":"6676ffa","elType":"widget","settings":{"image":{"url":"http:\/\/localhost\/wordpress\/wp-content\/uploads\/2021\/11\/MT.png","id":236,"alt":"","source":"library"},"image_custom_dimension":{"width":"70","height":"70"},"align":"center","link_to":"custom","link":{"url":" ","is_external":"","nofollow":"","custom_attributes":""},"width":{"unit":"%","size":71,"sizes":[]},"height":{"unit":"px","size":34,"sizes":[]}},"elements":[],"widgetType":"image"}],"isInner":false},{"id":"33fb1d6","elType":"column","settings":{"_column_size":33,"_inline_size":70.805,"content_position":"center","align":"center"},"elements":[{"id":"77e2aac","elType":"widget","settings":{"view":"inline","icon_list":[{"text":"Sobre","selected_icon":{"value":"","library":""},"_id":"ad3d7a1","link":{"url":"#sobre","is_external":"","nofollow":"","custom_attributes":""}},{"text":"Competencias","selected_icon":{"value":"","library":""},"_id":"cbd93c2","link":{"url":"#competencias","is_external":"","nofollow":"","custom_attributes":""}},{"_id":"4dfd525","text":"Projetos","selected_icon":{"value":"","library":""},"link":{"url":"#projetos","is_external":"","nofollow":"","custom_attributes":""}},{"_id":"bb9a180","text":"Forma\u00e7\u00e3o","selected_icon":{"value":"","library":""},"link":{"url":"#formacao","is_external":"","nofollow":"","custom_attributes":""}},{"_id":"f0b45b8","text":"Fim","selected_icon":{"value":"","library":""},"link":{"url":"#rodape","is_external":"","nofollow":"","custom_attributes":""}}],"space_between":{"unit":"px","size":31,"sizes":[]},"icon_align":"center","text_color":"#FFFFFF","text_color_hover":"#D8D8D8","__globals__":{"icon_typography_typography":"globals\/typography?id=ee37106"}},"elements":[],"widgetType":"icon-list"}],"isInner":false},{"id":"19c7ea7","elType":"column","settings":{"_column_size":33,"_inline_size":18.859,"content_position":"center","align":"center"},"elements":[{"id":"199232c","elType":"widget","settings":{"view":"inline","icon_list":[{"text":"","selected_icon":{"value":"fab fa-linkedin","library":"fa-brands"},"_id":"f1fdbda","link":{"url":"https:\/\/www.linkedin.com\/in\/mauricio-teixeira-37a932196\/","is_external":"on","nofollow":"","custom_attributes":""}},{"text":"","selected_icon":{"value":"fab fa-github","library":"fa-brands"},"_id":"c51c985","link":{"url":"https:\/\/github.com\/m-brito","is_external":"on","nofollow":"","custom_attributes":""}}],"icon_align":"center","icon_color":"#FFFFFF","icon_size":{"unit":"px","size":28,"sizes":[]},"icon_self_align":"center","__globals__":{"icon_color_hover":""},"icon_color_hover":"#C3C3C3"},"elements":[],"widgetType":"icon-list"}],"isInner":false}],"isInner":false},{"id":"632debd","elType":"section","settings":{"height":"min-height","custom_height":{"unit":"px","size":800,"sizes":[]},"background_background":"classic","background_image":{"url":"http:\/\/localhost\/wordpress\/wp-content\/uploads\/2021\/11\/fundoJavaScript.jpg","id":135,"alt":"","source":"library"},"background_position":"center center","background_repeat":"no-repeat","background_size":"initial","background_overlay_background":"classic","background_overlay_color":"#000000","background_overlay_color_b":"#00FF31","background_overlay_opacity":{"unit":"px","size":0.7,"sizes":[]},"_element_id":"sobre","__globals__":{"background_overlay_color":""},"animation":"bounceInDown"},"elements":[{"id":"26624ed","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"21e6923","elType":"section","settings":{"layout":"full_width","height_inner":"min-height","custom_height_inner":{"unit":"px","size":100,"sizes":[]},"content_position":"middle","structure":"20"},"elements":[{"id":"7251f22","elType":"column","settings":{"_column_size":50,"_inline_size":10.89,"background_background":"classic","background_image":{"url":"http:\/\/localhost\/wordpress\/wp-content\/uploads\/2021\/11\/1571699820248.jpg","id":97,"alt":"","source":"library"},"background_repeat":"no-repeat","background_size":"cover","background_overlay_background":"classic","background_overlay_color":"#000000","background_overlay_opacity":{"unit":"px","size":0.48,"sizes":[]}},"elements":[],"isInner":true},{"id":"a7c169e","elType":"column","settings":{"_column_size":50,"_inline_size":89.11},"elements":[{"id":"3a3429d","elType":"widget","settings":{"title":"Maur\u00edcio Brito Teixeira","size":"xl","header_size":"h3","title_color":"#FFFFFF","__globals__":{"typography_typography":"globals\/typography?id=b09d9a4"}},"elements":[],"widgetType":"heading"}],"isInner":true}],"isInner":true},{"id":"e02bb7f","elType":"widget","settings":{"editor":"<p>Estudante do ensino m\u00e9dio integrado ao curso t\u00e9cnico de Inform\u00e1tica para Internet no Instituto Federal de S\u00e3o Paulo, buscando oportunidade de in\u00edcio de carreira na \u00e1rea de desenvolvimento de software.<\/p>","text_color":"#FFFFFF","__globals__":{"typography_typography":"globals\/typography?id=text"}},"elements":[],"widgetType":"text-editor"},{"id":"4b8ceb5","elType":"widget","settings":[],"elements":[],"widgetType":"spacer"},{"id":"0afc63d","elType":"widget","settings":[],"elements":[],"widgetType":"spacer"},{"id":"ec98d95","elType":"widget","settings":[],"elements":[],"widgetType":"spacer"},{"id":"c3452d8","elType":"widget","settings":{"text":"Clique aqui","align":"right","button_text_color":"#000000","background_color":"#FFFFFF","link":{"url":"","is_external":"","nofollow":"","custom_attributes":""},"__globals__":{"button_background_hover_color":"globals\/colors?id=44dd6cd","typography_typography":""}},"elements":[],"widgetType":"button"}],"isInner":false}],"isInner":false},{"id":"5341cb9","elType":"section","settings":{"height":"min-height","_element_id":"competencias","background_background":"classic","__globals__":{"background_color":"globals\/colors?id=3224ac4"}},"elements":[{"id":"004074c","elType":"column","settings":{"_column_size":100,"_inline_size":null,"_element_id":"competencias"},"elements":[{"id":"6ce8fe3","elType":"widget","settings":[],"elements":[],"widgetType":"spacer"},{"id":"643172c","elType":"widget","settings":{"title":"Competencias","header_size":"h3","align":"center","title_color":"#FFFFFF","__globals__":{"typography_typography":"globals\/typography?id=b09d9a4"}},"elements":[],"widgetType":"heading"},{"id":"780f8f7","elType":"widget","settings":{"eael_fg_items_to_show":"6","eael_fg_filter_duration":500,"eael_fg_grid_item_height":"400","eael_fg_caption_style":"card","eael_fg_show_popup":"none","filter_enable":"","eael_fg_all_label_text":"All","eael_fg_controls":[{"eael_fg_control":"Gallery Item","_id":"a1c100a"}],"eael_fg_gallery_items":[{"eael_fg_gallery_item_name":"HTML","_id":"7a50df4","fg_video_gallery_switch":"","eael_fg_gallery_item_video_link":"https:\/\/www.youtube.com\/watch?v=kB4U67tiQLA","eael_fg_gallery_control_name":"HTML","fg_item_price_switch":"","fg_item_price":"$20.00","fg_item_ratings_switch":"","fg_item_ratings":"5","fg_item_cat":"Essential Addons","eael_fg_gallery_item_content":"","eael_fg_gallery_img":{"url":"http:\/\/localhost\/wordpress\/wp-content\/uploads\/2021\/11\/html-logo.jpg","id":293,"alt":"","source":"library"},"eael_fg_gallery_lightbox":"","eael_fg_gallery_link":""},{"eael_fg_gallery_item_name":"Java Script","_id":"b7e63cd","eael_fg_gallery_item_video_link":"https:\/\/www.youtube.com\/watch?v=kB4U67tiQLA","fg_item_price":"$20.00","fg_item_ratings":"5","fg_item_cat":"Essential Addons","eael_fg_gallery_item_content":"","eael_fg_gallery_img":{"url":"http:\/\/localhost\/wordpress\/wp-content\/uploads\/2021\/11\/JavaScript-logo.png","id":289,"alt":"","source":"library"}},{"eael_fg_gallery_item_name":"CSS","_id":"c3e2ea1","eael_fg_gallery_item_video_link":"https:\/\/www.youtube.com\/watch?v=kB4U67tiQLA","fg_item_price":"$20.00","fg_item_ratings":"5","fg_item_cat":"Essential Addons","eael_fg_gallery_item_content":"","eael_fg_gallery_img":{"url":"http:\/\/localhost\/wordpress\/wp-content\/uploads\/2021\/11\/css-logo.jpg","id":294,"alt":"","source":"library"}},{"eael_fg_gallery_item_name":"Java","_id":"b9aead9","eael_fg_gallery_item_video_link":"https:\/\/www.youtube.com\/watch?v=kB4U67tiQLA","fg_item_price":"$20.00","fg_item_ratings":"5","fg_item_cat":"Essential Addons","eael_fg_gallery_item_content":"","eael_fg_gallery_img":{"url":"http:\/\/localhost\/wordpress\/wp-content\/uploads\/2021\/11\/Java-logo.jpg","id":291,"alt":"","source":"library"}},{"eael_fg_gallery_item_name":"Python","_id":"1d54e2c","eael_fg_gallery_item_video_link":"https:\/\/www.youtube.com\/watch?v=kB4U67tiQLA","fg_item_price":"$20.00","fg_item_ratings":"5","fg_item_cat":"Essential Addons","eael_fg_gallery_item_content":"","eael_fg_gallery_img":{"url":"http:\/\/localhost\/wordpress\/wp-content\/uploads\/2021\/11\/Python-logo.jpg","id":290,"alt":"","source":"library"}},{"eael_fg_gallery_item_name":"MySQL","_id":"6e46939","eael_fg_gallery_item_video_link":"https:\/\/www.youtube.com\/watch?v=kB4U67tiQLA","fg_item_price":"$20.00","fg_item_ratings":"5","fg_item_cat":"Essential Addons","eael_fg_gallery_item_content":"","eael_fg_gallery_img":{"url":"http:\/\/localhost\/wordpress\/wp-content\/uploads\/2021\/11\/MySQL-logo.jpg","id":292,"alt":"","source":"library"}}],"pagination":"","images_per_page":6,"load_more_text":"Load More","nomore_items_text":"No more items!","eael_fg_bg_color":"#FF000000","eael_fg_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"color":"rgba(255, 255, 255, 0.5)"},"eael_fg_control_normal_text_color":"#000000","eael_fg_control_normal_bg_color":"#000000","eael_fg_item_shadow_box_shadow_type":"yes","eael_fg_item_shadow_box_shadow":{"horizontal":1,"vertical":1,"blur":10,"spread":0,"color":"rgba(0, 0, 0, 0.5)"},"eael_fg_item_card_hover_bg_color":"#FF000000","eael_fg_video_item_hover_bg":"#FF0000B3","eael_fg_video_item_icon_hover_scale":"1.1","eael_fg_item_content_bg_color":"#B6B6B6","eael_fg_item_content_title_color":"#000000BD","eael_fg_item_content_title_typography_typography":"custom","eael_fg_item_content_title_typography_font_family":"Roboto Slab","eael_fg_item_content_title_typography_font_size":{"unit":"px","size":35,"sizes":[]},"eael_fg_item_content_title_typography_font_weight":"800","eael_fg_item_content_text_color":"#23232300","eael_fg_item_content_text_typography_typography":"custom","eael_fg_item_content_alignment":"center","eael_fg_item_icon_bg_color":"#FF622A00","fg_sf_placeholder":"Search Gallery Item...","_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"_animation":"slideInUp"},"elements":[],"widgetType":"eael-filterable-gallery"},{"id":"0a2a5ae","elType":"widget","settings":[],"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"fcf0ca3","elType":"section","settings":{"background_background":"classic","__globals__":{"background_color":"globals\/colors?id=795e22b"}},"elements":[{"id":"bb13804","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"58b1fb4","elType":"widget","settings":[],"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"a7b05fa","elType":"section","settings":{"background_background":"classic","__globals__":{"background_color":"globals\/colors?id=3224ac4"}},"elements":[{"id":"64ad56b","elType":"column","settings":{"_column_size":100,"_inline_size":null,"_element_id":"projetos"},"elements":[{"id":"aee8d3b","elType":"widget","settings":{"title":"Projetos","header_size":"h3","align":"center","title_color":"#FFFFFF","__globals__":{"typography_typography":"globals\/typography?id=b09d9a4"}},"elements":[],"widgetType":"heading"},{"id":"ddade89","elType":"widget","settings":[],"elements":[],"widgetType":"spacer"},{"id":"671985b","elType":"widget","settings":{"eael_fg_items_to_show":"3","eael_fg_filter_duration":500,"eael_fg_grid_item_height":"300","eael_fg_caption_style":"card","eael_fg_all_label_text":"All","eael_fg_controls":[{"eael_fg_control":"Gallery Item","_id":"e7cf13a"}],"eael_fg_gallery_items":[{"eael_fg_gallery_item_name":"Shuesha POC","_id":"a4b080f","fg_video_gallery_switch":"","eael_fg_gallery_item_video_link":"https:\/\/www.youtube.com\/watch?v=kB4U67tiQLA","fg_item_price":"$20.00","fg_item_ratings":"5","fg_item_cat":"Essential Addons","eael_fg_gallery_item_content":"<p>Site para apresenta\u00e7\u00e3o de conte\u00fados produzidos pela empresa Shueisha<\/p>","eael_fg_gallery_img":{"url":"http:\/\/localhost\/wordpress\/wp-content\/uploads\/2021\/11\/1.png","id":59,"alt":"","source":"library"},"eael_fg_gallery_img_link":{"url":"https:\/\/www.shueisha-mteixeira.com.br\/","is_external":"on","nofollow":"","custom_attributes":""}},{"eael_fg_gallery_item_name":"Kids Digital","_id":"53fa422","eael_fg_gallery_item_video_link":"https:\/\/www.youtube.com\/watch?v=kB4U67tiQLA","fg_item_price":"$20.00","fg_item_ratings":"5","fg_item_cat":"Essential Addons","eael_fg_gallery_item_content":"<p>Site para alfabetiza\u00e7\u00e3o digital de crian\u00e7as de 7 a 10 anos<\/p>","eael_fg_gallery_img":{"url":"http:\/\/localhost\/wordpress\/wp-content\/uploads\/2021\/11\/2.png","id":60,"alt":"","source":"library"},"eael_fg_gallery_img_link":{"url":"https:\/\/kids-digital.netlify.app\/","is_external":"on","nofollow":"","custom_attributes":""}},{"eael_fg_gallery_item_name":"Rede LMM","_id":"c313746","eael_fg_gallery_item_video_link":"https:\/\/www.youtube.com\/watch?v=kB4U67tiQLA","fg_item_price":"$20.00","fg_item_ratings":"5","fg_item_cat":"Essential Addons","eael_fg_gallery_item_content":"<p>Site - destinado \u00e0 pessoas que queiram encontrar ou empregar pessoas<\/p>","eael_fg_gallery_img":{"url":"http:\/\/localhost\/wordpress\/wp-content\/uploads\/2021\/11\/3.png","id":61,"alt":"","source":"library"}}],"images_per_page":6,"load_more_text":"Load More","nomore_items_text":"No more items!","eael_fg_video_item_icon_hover_scale":"1.1","fg_sf_placeholder":"Search Gallery Item...","eael_fg_bg_color":"#00000000","eael_fg_item_content_bg_color":"#BABABA","_background_background":"classic","eael_fg_control_normal_text_color":"#FFFFFF","eael_fg_item_card_hover_bg_color":"#000000B3","__globals__":{"eael_fg_item_content_text_color":"globals\/colors?id=795e22b","eael_fg_item_content_title_color":"globals\/colors?id=795e22b","eael_fg_item_content_title_typography_typography":"globals\/typography?id=b783ff7","eael_fg_item_content_text_typography_typography":"globals\/typography?id=ee37106","eael_fg_item_icon_bg_color":"","eael_fg_item_icon_color":"globals\/colors?id=795e22b"},"eael_fg_item_content_title_color":"#000000","eael_fg_item_content_title_typography_typography":"custom","eael_fg_item_content_title_typography_font_family":"Roboto Slab","eael_fg_item_content_title_typography_font_size":{"unit":"px","size":35,"sizes":[]},"eael_fg_item_content_title_typography_line_height":{"unit":"em","size":"","sizes":[]},"eael_fg_item_content_text_color":"#000000","eael_fg_item_content_text_typography_typography":"custom","eael_fg_item_content_text_typography_font_family":"Roboto Slab","eael_fg_item_content_text_typography_line_height":{"unit":"em","size":"","sizes":[]},"eael_fg_item_icon_bg_color":"#FFFFFF","eael_fg_item_icon_color":"#000000","eael_fg_item_icon_bg_color_hover":"#303030"},"elements":[],"widgetType":"eael-filterable-gallery"}],"isInner":false}],"isInner":false},{"id":"7e905ff","elType":"section","settings":{"background_background":"classic","__globals__":{"background_color":"globals\/colors?id=795e22b"}},"elements":[{"id":"cca6735","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"8c98f07","elType":"widget","settings":[],"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"9be52ec","elType":"section","settings":{"background_background":"classic","__globals__":{"background_color":""},"_element_id":"formacao","background_color":"#232323"},"elements":[{"id":"f56f5b1","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"e01ed71","elType":"widget","settings":{"title":"Forma\u00e7\u00e3o","header_size":"h3","align":"center","title_color":"#FFFFFF","__globals__":{"typography_typography":"globals\/typography?id=b09d9a4"}},"elements":[],"widgetType":"heading"},{"id":"bf48809","elType":"section","settings":{"structure":"20"},"elements":[{"id":"0da0ff9","elType":"column","settings":{"_column_size":50,"_inline_size":10},"elements":[{"id":"7b6eb37","elType":"widget","settings":{"image":{"url":"http:\/\/localhost\/wordpress\/wp-content\/uploads\/2021\/11\/logo-ifsp.jpg","id":443,"alt":"","source":"library"}},"elements":[],"widgetType":"image"}],"isInner":true},{"id":"c9e2b2f","elType":"column","settings":{"_column_size":50,"_inline_size":90},"elements":[{"id":"7045f21","elType":"widget","settings":{"editor":"<p>Instituto Federal de Educa\u00e7\u00e3o, Ci\u00eancia e Tecnologia de S\u00e3o Paulo - IFSP&nbsp;<\/p>","text_color":"#FFFFFF","__globals__":{"typography_typography":"globals\/typography?id=ee37106"},"_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"text-editor"},{"id":"be320f9","elType":"widget","settings":{"editor":"<p style=\"color: #ffffff; font-family: 'Roboto Slab', sans-serif;\"><span style=\"font-family: var( --e-global-typography-ee37106-font-family ), Sans-serif; font-size: var( --e-global-typography-ee37106-font-size ); font-weight: var( --e-global-typography-text-font-weight ); letter-spacing: var( --e-global-typography-ee37106-letter-spacing ); background-color: var( --e-global-color-3224ac4 );\">Ensino m\u00e9dio, Inform\u00e1tica para Internet<\/span><\/p><p style=\"color: #ffffff; font-family: 'Roboto Slab', sans-serif;\">2019 \u2013 2021<\/p>","__globals__":{"typography_typography":"globals\/typography?id=525a924"}},"elements":[],"widgetType":"text-editor"}],"isInner":true}],"isInner":true},{"id":"df9345a","elType":"widget","settings":[],"elements":[],"widgetType":"spacer"},{"id":"8f68849","elType":"section","settings":{"structure":"20"},"elements":[{"id":"1d22d0e","elType":"column","settings":{"_column_size":50,"_inline_size":90},"elements":[{"id":"6dfc49d","elType":"widget","settings":{"editor":"<p><span style=\"text-align: start;\">MicroPRO - Qualifica\u00e7\u00e3o Profissional<\/span><\/p>","text_color":"#FFFFFF","__globals__":{"typography_typography":"globals\/typography?id=ee37106"},"_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"align":"right"},"elements":[],"widgetType":"text-editor"},{"id":"2f31dce","elType":"widget","settings":{"editor":"<p><span style=\"text-align: start;\">Analista em Suporte T\u00e9cnico<\/span><br><\/p>","__globals__":{"typography_typography":"globals\/typography?id=525a924"},"align":"right","text_color":"#FFFFFF"},"elements":[],"widgetType":"text-editor"}],"isInner":true},{"id":"376b113","elType":"column","settings":{"_column_size":50,"_inline_size":10},"elements":[{"id":"b678ce4","elType":"widget","settings":{"image":{"url":"http:\/\/localhost\/wordpress\/wp-content\/uploads\/2021\/11\/micropro-logo.jpg","id":464,"alt":"","source":"library"}},"elements":[],"widgetType":"image"}],"isInner":true}],"isInner":true},{"id":"6df3558","elType":"widget","settings":[],"elements":[],"widgetType":"spacer"},{"id":"4608abc","elType":"widget","settings":[],"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"7a26a28","elType":"section","settings":{"background_background":"classic","__globals__":{"background_color":"globals\/colors?id=795e22b"}},"elements":[{"id":"aa68915","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"c1e3582","elType":"widget","settings":[],"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"52436085","elType":"section","settings":{"gap":"no","custom_height":{"unit":"px","size":""},"content_position":"middle","structure":"20","padding":{"unit":"px","top":"100","right":"0","bottom":"100","left":"0","isLinked":false},"background_background":"classic","background_color":"#232323","padding_tablet":{"unit":"px","top":"100","right":"25","bottom":"100","left":"25","isLinked":false},"padding_mobile":{"unit":"px","top":"50","right":"20","bottom":"50","left":"20","isLinked":false},"animation":"slideInUp"},"elements":[{"id":"135cd45a","elType":"column","settings":{"_column_size":50,"_inline_size":43.244},"elements":[{"id":"3e0e5ed8","elType":"widget","settings":{"title":"Carreira","align":"left","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":77,"sizes":[]},"header_size":"h3","typography_font_family":"Roboto Slab","typography_line_height":{"unit":"em","size":"","sizes":[]},"__globals__":{"typography_typography":""}},"elements":[],"widgetType":"heading"},{"id":"5464e4a5","elType":"widget","settings":{"title_text":"Maratona InterIFs - Ranking","description_text":"","position":"left","primary_color":"#00ce1b","icon_space":{"unit":"px","size":8},"icon_size":{"unit":"px","size":30},"hover_animation":"grow","text_align":"center","title_bottom_space":{"unit":"px","size":14},"title_color":"#ffffff","_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"content_vertical_alignment":"middle","description_typography_typography":"custom","description_typography_font_family":"Roboto Slab","description_typography_font_weight":"400","_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"__globals__":{"title_typography_typography":""}},"elements":[],"widgetType":"icon-box"},{"id":"4e5ec33e","elType":"widget","settings":{"icon_list":[{"text":"Conquista da 14\u00aa posi\u00e7\u00e3o pela equipe TLEtubbies","icon":"","_id":"7f644b8"}],"space_between":{"unit":"px","size":10},"icon_align":"left","icon_color":"#bfbfbf","icon_size":{"unit":"px","size":12},"text_indent":{"unit":"px","size":10},"text_color":"#FFFFFF","_margin":{"unit":"px","top":"-10","right":"0","bottom":"0","left":"0","isLinked":false},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"__globals__":{"icon_typography_typography":"globals\/typography?id=525a924"}},"elements":[],"widgetType":"icon-list"}],"isInner":false},{"id":"45b64415","elType":"column","settings":{"_column_size":50,"_inline_size":56.756,"padding_mobile":{"unit":"px","top":"55","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"74810788","elType":"widget","settings":{"image":{"id":462,"url":"http:\/\/localhost\/wordpress\/wp-content\/uploads\/2021\/11\/maratona-interif1.png","alt":"","source":"library"},"image_size":"full"},"elements":[],"widgetType":"image"}],"isInner":false}],"isInner":false},{"id":"74ce8be","elType":"section","settings":{"background_background":"classic","__globals__":{"background_color":"globals\/colors?id=795e22b"}},"elements":[{"id":"fa776b2","elType":"column","settings":{"_column_size":100,"_inline_size":null,"_element_id":"rodape"},"elements":[{"id":"a196e05","elType":"section","settings":[],"elements":[{"id":"f85604d","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"82c5941","elType":"widget","settings":{"text":"Inicio \u2191","link":{"url":"#sobre","is_external":"","nofollow":"","custom_attributes":""},"align":"center","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":30,"sizes":[]},"typography_font_weight":"500","_element_width":"initial","_element_custom_width":{"unit":"px","size":160},"_position":"fixed","_offset_x":{"size":28,"unit":"px"},"_offset_y":{"size":851,"unit":"px"},"__globals__":{"background_color":"globals\/colors?id=text"}},"elements":[],"widgetType":"button"},{"id":"e02ff51","elType":"widget","settings":{"editor":"<p>Feito por Mauricio B. Teixeira. \u00a9Copyright 2021<\/p>","align":"center","text_color":"#FFFFFF"},"elements":[],"widgetType":"text-editor"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+		<wp:meta_value><![CDATA[[{"id":"96a30f9","elType":"section","settings":{"structure":"30","height":"min-height","custom_height":{"unit":"px","size":100,"sizes":[]},"background_background":"classic","_element_id":"menu","__globals__":{"background_color":"globals\/colors?id=3224ac4"},"hide_tablet":"hidden-tablet","hide_mobile":"hidden-mobile"},"elements":[{"id":"17d6db1","elType":"column","settings":{"_column_size":33,"_inline_size":10,"content_position":"center","align":"center","html_tag":"div"},"elements":[{"id":"6676ffa","elType":"widget","settings":{"image":{"url":"http:\/\/mauricio-brito.soukick.ml\/wp-content\/uploads\/2021\/11\/MT.png","id":236,"alt":"","source":"library"},"image_custom_dimension":{"width":"70","height":"70"},"align":"center","link_to":"custom","link":{"url":" ","is_external":"","nofollow":"","custom_attributes":""},"width":{"unit":"%","size":71,"sizes":[]},"height":{"unit":"px","size":34,"sizes":[]}},"elements":[],"widgetType":"image"}],"isInner":false},{"id":"33fb1d6","elType":"column","settings":{"_column_size":33,"_inline_size":70.805,"content_position":"center","align":"center"},"elements":[{"id":"77e2aac","elType":"widget","settings":{"view":"inline","icon_list":[{"text":"Sobre","selected_icon":{"value":"","library":""},"_id":"ad3d7a1","link":{"url":"#sobre","is_external":"","nofollow":"","custom_attributes":""}},{"text":"Competencias","selected_icon":{"value":"","library":""},"_id":"cbd93c2","link":{"url":"#competencias","is_external":"","nofollow":"","custom_attributes":""}},{"_id":"4dfd525","text":"Projetos","selected_icon":{"value":"","library":""},"link":{"url":"#projetos","is_external":"","nofollow":"","custom_attributes":""}},{"_id":"bb9a180","text":"Forma\u00e7\u00e3o","selected_icon":{"value":"","library":""},"link":{"url":"#formacao","is_external":"","nofollow":"","custom_attributes":""}},{"_id":"c695a73","text":"Contato","selected_icon":{"value":"","library":""},"link":{"url":"http:\/\/mauricio-brito.soukick.ml\/formulario\/","is_external":"on","nofollow":"","custom_attributes":""}},{"_id":"f0b45b8","text":"Fim","selected_icon":{"value":"","library":""},"link":{"url":"#rodape","is_external":"","nofollow":"","custom_attributes":""}}],"space_between":{"unit":"px","size":31,"sizes":[]},"icon_align":"center","text_color":"#FFFFFF","text_color_hover":"#D8D8D8","__globals__":{"icon_typography_typography":"globals\/typography?id=ee37106"}},"elements":[],"widgetType":"icon-list"}],"isInner":false},{"id":"19c7ea7","elType":"column","settings":{"_column_size":33,"_inline_size":18.859,"content_position":"center","align":"center"},"elements":[{"id":"199232c","elType":"widget","settings":{"view":"inline","icon_list":[{"text":"","selected_icon":{"value":"fab fa-linkedin","library":"fa-brands"},"_id":"f1fdbda","link":{"url":"https:\/\/www.linkedin.com\/in\/mauricio-teixeira-37a932196\/","is_external":"on","nofollow":"","custom_attributes":""}},{"text":"","selected_icon":{"value":"fab fa-github","library":"fa-brands"},"_id":"c51c985","link":{"url":"https:\/\/github.com\/m-brito","is_external":"on","nofollow":"","custom_attributes":""}},{"_id":"0f4d337","text":"","selected_icon":{"value":"hm hm-mail-open","library":"happy-icons"},"link":{"url":"http:\/\/mauricio-brito.soukick.ml\/formulario\/","is_external":"on","nofollow":"","custom_attributes":""}}],"icon_align":"center","icon_color":"#FFFFFF","icon_size":{"unit":"px","size":28,"sizes":[]},"icon_self_align":"center","__globals__":{"icon_color_hover":""},"icon_color_hover":"#C3C3C3"},"elements":[],"widgetType":"icon-list"}],"isInner":false}],"isInner":false},{"id":"632debd","elType":"section","settings":{"height":"min-height","custom_height":{"unit":"px","size":800,"sizes":[]},"background_background":"classic","background_image":{"url":"http:\/\/mauricio-brito.soukick.ml\/wp-content\/uploads\/2021\/11\/fundoJavaScript.jpg","id":135,"alt":"","source":"library"},"background_position":"center center","background_repeat":"no-repeat","background_size":"initial","background_overlay_background":"classic","background_overlay_color":"#000000","background_overlay_color_b":"#00FF31","background_overlay_opacity":{"unit":"px","size":0.7,"sizes":[]},"_element_id":"sobre","__globals__":{"background_overlay_color":""},"animation":"bounceInDown"},"elements":[{"id":"26624ed","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"21e6923","elType":"section","settings":{"layout":"full_width","height_inner":"min-height","custom_height_inner":{"unit":"px","size":100,"sizes":[]},"content_position":"middle","structure":"20"},"elements":[{"id":"7251f22","elType":"column","settings":{"_column_size":50,"_inline_size":10.89,"background_background":"classic","background_image":{"url":"http:\/\/mauricio-brito.soukick.ml\/wp-content\/uploads\/2021\/11\/1571699820248.jpg","id":97,"alt":"","source":"library"},"background_repeat":"no-repeat","background_size":"cover","background_overlay_background":"classic","background_overlay_color":"#000000","background_overlay_opacity":{"unit":"px","size":0.48,"sizes":[]}},"elements":[],"isInner":true},{"id":"a7c169e","elType":"column","settings":{"_column_size":50,"_inline_size":89.11},"elements":[{"id":"3a3429d","elType":"widget","settings":{"title":"Maur\u00edcio Brito Teixeira","size":"xl","header_size":"h3","title_color":"#FFFFFF","__globals__":{"typography_typography":"globals\/typography?id=b09d9a4"}},"elements":[],"widgetType":"heading"}],"isInner":true}],"isInner":true},{"id":"e02bb7f","elType":"widget","settings":{"editor":"<p>Estudante do ensino m\u00e9dio integrado ao curso t\u00e9cnico de Inform\u00e1tica para Internet no Instituto Federal de S\u00e3o Paulo, buscando oportunidade de in\u00edcio de carreira na \u00e1rea de desenvolvimento de software.<\/p>","text_color":"#FFFFFF","__globals__":{"typography_typography":"globals\/typography?id=text"}},"elements":[],"widgetType":"text-editor"},{"id":"4b8ceb5","elType":"widget","settings":[],"elements":[],"widgetType":"spacer"},{"id":"0afc63d","elType":"widget","settings":[],"elements":[],"widgetType":"spacer"},{"id":"ec98d95","elType":"widget","settings":[],"elements":[],"widgetType":"spacer"},{"id":"c3452d8","elType":"widget","settings":{"text":"Curriculo","align":"right","button_text_color":"#000000","background_color":"#FFFFFF","link":{"url":"http:\/\/mauricio-brito.soukick.ml\/wp-content\/uploads\/2021\/12\/Curriculo-Mauricio.pdf","is_external":"on","nofollow":"","custom_attributes":""},"__globals__":{"button_background_hover_color":"globals\/colors?id=44dd6cd","typography_typography":""}},"elements":[],"widgetType":"button"}],"isInner":false}],"isInner":false},{"id":"5341cb9","elType":"section","settings":{"height":"min-height","_element_id":"competencias","background_background":"classic","__globals__":{"background_color":"globals\/colors?id=3224ac4"}},"elements":[{"id":"004074c","elType":"column","settings":{"_column_size":100,"_inline_size":null,"_element_id":"competencias"},"elements":[{"id":"6ce8fe3","elType":"widget","settings":[],"elements":[],"widgetType":"spacer"},{"id":"643172c","elType":"widget","settings":{"title":"Competencias","header_size":"h3","align":"center","title_color":"#FFFFFF","__globals__":{"typography_typography":"globals\/typography?id=b09d9a4"}},"elements":[],"widgetType":"heading"},{"id":"780f8f7","elType":"widget","settings":{"eael_fg_items_to_show":"6","eael_fg_filter_duration":500,"eael_fg_grid_item_height":"400","eael_fg_caption_style":"card","eael_fg_show_popup":"none","filter_enable":"","eael_fg_all_label_text":"All","eael_fg_controls":[{"eael_fg_control":"Gallery Item","_id":"a1c100a"}],"eael_fg_gallery_items":[{"eael_fg_gallery_item_name":"HTML","_id":"7a50df4","fg_video_gallery_switch":"","eael_fg_gallery_item_video_link":"https:\/\/www.youtube.com\/watch?v=kB4U67tiQLA","eael_fg_gallery_control_name":"HTML","fg_item_price_switch":"","fg_item_price":"$20.00","fg_item_ratings_switch":"","fg_item_ratings":"5","fg_item_cat":"Essential Addons","eael_fg_gallery_item_content":"","eael_fg_gallery_img":{"url":"http:\/\/mauricio-brito.soukick.ml\/wp-content\/uploads\/2021\/11\/html-logo.jpg","id":293,"alt":"","source":"library"},"eael_fg_gallery_lightbox":"","eael_fg_gallery_link":""},{"eael_fg_gallery_item_name":"Java Script","_id":"b7e63cd","eael_fg_gallery_item_video_link":"https:\/\/www.youtube.com\/watch?v=kB4U67tiQLA","fg_item_price":"$20.00","fg_item_ratings":"5","fg_item_cat":"Essential Addons","eael_fg_gallery_item_content":"","eael_fg_gallery_img":{"url":"http:\/\/mauricio-brito.soukick.ml\/wp-content\/uploads\/2021\/11\/JavaScript-logo.png","id":289,"alt":"","source":"library"}},{"eael_fg_gallery_item_name":"CSS","_id":"c3e2ea1","eael_fg_gallery_item_video_link":"https:\/\/www.youtube.com\/watch?v=kB4U67tiQLA","fg_item_price":"$20.00","fg_item_ratings":"5","fg_item_cat":"Essential Addons","eael_fg_gallery_item_content":"","eael_fg_gallery_img":{"url":"http:\/\/mauricio-brito.soukick.ml\/wp-content\/uploads\/2021\/11\/css-logo.jpg","id":294,"alt":"","source":"library"}},{"eael_fg_gallery_item_name":"Java","_id":"b9aead9","eael_fg_gallery_item_video_link":"https:\/\/www.youtube.com\/watch?v=kB4U67tiQLA","fg_item_price":"$20.00","fg_item_ratings":"5","fg_item_cat":"Essential Addons","eael_fg_gallery_item_content":"","eael_fg_gallery_img":{"url":"http:\/\/mauricio-brito.soukick.ml\/wp-content\/uploads\/2021\/11\/Java-logo.jpg","id":291,"alt":"","source":"library"}},{"eael_fg_gallery_item_name":"Python","_id":"1d54e2c","eael_fg_gallery_item_video_link":"https:\/\/www.youtube.com\/watch?v=kB4U67tiQLA","fg_item_price":"$20.00","fg_item_ratings":"5","fg_item_cat":"Essential Addons","eael_fg_gallery_item_content":"","eael_fg_gallery_img":{"url":"http:\/\/mauricio-brito.soukick.ml\/wp-content\/uploads\/2021\/11\/Python-logo.jpg","id":290,"alt":"","source":"library"}},{"eael_fg_gallery_item_name":"MySQL","_id":"6e46939","eael_fg_gallery_item_video_link":"https:\/\/www.youtube.com\/watch?v=kB4U67tiQLA","fg_item_price":"$20.00","fg_item_ratings":"5","fg_item_cat":"Essential Addons","eael_fg_gallery_item_content":"","eael_fg_gallery_img":{"url":"http:\/\/mauricio-brito.soukick.ml\/wp-content\/uploads\/2021\/11\/MySQL-logo.jpg","id":292,"alt":"","source":"library"}}],"pagination":"","images_per_page":6,"load_more_text":"Load More","nomore_items_text":"No more items!","eael_fg_bg_color":"#FF000000","eael_fg_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"color":"rgba(255, 255, 255, 0.5)"},"eael_fg_control_normal_text_color":"#000000","eael_fg_control_normal_bg_color":"#000000","eael_fg_item_shadow_box_shadow_type":"yes","eael_fg_item_shadow_box_shadow":{"horizontal":1,"vertical":1,"blur":10,"spread":0,"color":"rgba(0, 0, 0, 0.5)"},"eael_fg_item_card_hover_bg_color":"#FF000000","eael_fg_video_item_hover_bg":"#FF0000B3","eael_fg_video_item_icon_hover_scale":"1.1","eael_fg_item_content_bg_color":"#B6B6B6","eael_fg_item_content_title_color":"#000000BD","eael_fg_item_content_title_typography_typography":"custom","eael_fg_item_content_title_typography_font_family":"Roboto Slab","eael_fg_item_content_title_typography_font_size":{"unit":"px","size":35,"sizes":[]},"eael_fg_item_content_title_typography_font_weight":"800","eael_fg_item_content_text_color":"#23232300","eael_fg_item_content_text_typography_typography":"custom","eael_fg_item_content_alignment":"center","eael_fg_item_icon_bg_color":"#FF622A00","fg_sf_placeholder":"Search Gallery Item...","_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"_animation":"slideInUp"},"elements":[],"widgetType":"eael-filterable-gallery"},{"id":"0a2a5ae","elType":"widget","settings":[],"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"fcf0ca3","elType":"section","settings":{"background_background":"classic","__globals__":{"background_color":"globals\/colors?id=795e22b"}},"elements":[{"id":"bb13804","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"58b1fb4","elType":"widget","settings":[],"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"a7b05fa","elType":"section","settings":{"background_background":"classic","__globals__":{"background_color":"globals\/colors?id=3224ac4"}},"elements":[{"id":"64ad56b","elType":"column","settings":{"_column_size":100,"_inline_size":null,"_element_id":"projetos"},"elements":[{"id":"aee8d3b","elType":"widget","settings":{"title":"Projetos","header_size":"h3","align":"center","title_color":"#FFFFFF","__globals__":{"typography_typography":"globals\/typography?id=b09d9a4"}},"elements":[],"widgetType":"heading"},{"id":"ddade89","elType":"widget","settings":[],"elements":[],"widgetType":"spacer"},{"id":"671985b","elType":"widget","settings":{"eael_fg_items_to_show":"3","eael_fg_filter_duration":500,"eael_fg_grid_item_height":"300","eael_fg_caption_style":"card","eael_fg_all_label_text":"All","eael_fg_controls":[{"eael_fg_control":"Gallery Item","_id":"e7cf13a"}],"eael_fg_gallery_items":[{"eael_fg_gallery_item_name":"Shuesha POC","_id":"a4b080f","fg_video_gallery_switch":"","eael_fg_gallery_item_video_link":"https:\/\/www.youtube.com\/watch?v=kB4U67tiQLA","fg_item_price":"$20.00","fg_item_ratings":"5","fg_item_cat":"Essential Addons","eael_fg_gallery_item_content":"<p>Site para apresenta\u00e7\u00e3o de conte\u00fados produzidos pela empresa Shueisha<\/p>","eael_fg_gallery_img":{"url":"http:\/\/mauricio-brito.soukick.ml\/wp-content\/uploads\/2021\/11\/1.png","id":59,"alt":"","source":"library"},"eael_fg_gallery_img_link":{"url":"https:\/\/www.shueisha-mteixeira.com.br\/","is_external":"on","nofollow":"","custom_attributes":""}},{"eael_fg_gallery_item_name":"Kids Digital","_id":"53fa422","eael_fg_gallery_item_video_link":"https:\/\/www.youtube.com\/watch?v=kB4U67tiQLA","fg_item_price":"$20.00","fg_item_ratings":"5","fg_item_cat":"Essential Addons","eael_fg_gallery_item_content":"<p>Site para alfabetiza\u00e7\u00e3o digital de crian\u00e7as de 7 a 10 anos<\/p>","eael_fg_gallery_img":{"url":"http:\/\/mauricio-brito.soukick.ml\/wp-content\/uploads\/2021\/11\/2.png","id":60,"alt":"","source":"library"},"eael_fg_gallery_img_link":{"url":"https:\/\/kids-digital.netlify.app\/","is_external":"on","nofollow":"","custom_attributes":""}},{"eael_fg_gallery_item_name":"Rede LMM","_id":"c313746","eael_fg_gallery_item_video_link":"https:\/\/www.youtube.com\/watch?v=kB4U67tiQLA","fg_item_price":"$20.00","fg_item_ratings":"5","fg_item_cat":"Essential Addons","eael_fg_gallery_item_content":"<p>Site - destinado \u00e0 pessoas que queiram encontrar ou empregar pessoas<\/p>","eael_fg_gallery_img":{"url":"http:\/\/mauricio-brito.soukick.ml\/wp-content\/uploads\/2021\/11\/3.png","id":61,"alt":"","source":"library"}}],"images_per_page":6,"load_more_text":"Load More","nomore_items_text":"No more items!","eael_fg_video_item_icon_hover_scale":"1.1","fg_sf_placeholder":"Search Gallery Item...","eael_fg_bg_color":"#00000000","eael_fg_item_content_bg_color":"#BABABA","_background_background":"classic","eael_fg_control_normal_text_color":"#FFFFFF","eael_fg_item_card_hover_bg_color":"#000000B3","__globals__":{"eael_fg_item_content_text_color":"globals\/colors?id=795e22b","eael_fg_item_content_title_color":"globals\/colors?id=795e22b","eael_fg_item_content_title_typography_typography":"globals\/typography?id=b783ff7","eael_fg_item_content_text_typography_typography":"globals\/typography?id=ee37106","eael_fg_item_icon_bg_color":"","eael_fg_item_icon_color":"globals\/colors?id=795e22b"},"eael_fg_item_content_title_color":"#000000","eael_fg_item_content_title_typography_typography":"custom","eael_fg_item_content_title_typography_font_family":"Roboto Slab","eael_fg_item_content_title_typography_font_size":{"unit":"px","size":35,"sizes":[]},"eael_fg_item_content_title_typography_line_height":{"unit":"em","size":"","sizes":[]},"eael_fg_item_content_text_color":"#000000","eael_fg_item_content_text_typography_typography":"custom","eael_fg_item_content_text_typography_font_family":"Roboto Slab","eael_fg_item_content_text_typography_line_height":{"unit":"em","size":"","sizes":[]},"eael_fg_item_icon_bg_color":"#FFFFFF","eael_fg_item_icon_color":"#000000","eael_fg_item_icon_bg_color_hover":"#303030"},"elements":[],"widgetType":"eael-filterable-gallery"}],"isInner":false}],"isInner":false},{"id":"7e905ff","elType":"section","settings":{"background_background":"classic","__globals__":{"background_color":"globals\/colors?id=795e22b"}},"elements":[{"id":"cca6735","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"8c98f07","elType":"widget","settings":[],"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"9be52ec","elType":"section","settings":{"background_background":"classic","__globals__":{"background_color":""},"_element_id":"formacao","background_color":"#232323"},"elements":[{"id":"f56f5b1","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"e01ed71","elType":"widget","settings":{"title":"Forma\u00e7\u00e3o","header_size":"h3","align":"center","title_color":"#FFFFFF","__globals__":{"typography_typography":"globals\/typography?id=b09d9a4"}},"elements":[],"widgetType":"heading"},{"id":"bf48809","elType":"section","settings":{"structure":"20"},"elements":[{"id":"0da0ff9","elType":"column","settings":{"_column_size":50,"_inline_size":10},"elements":[{"id":"7b6eb37","elType":"widget","settings":{"image":{"url":"http:\/\/mauricio-brito.soukick.ml\/wp-content\/uploads\/2021\/11\/logo-ifsp.jpg","id":443,"alt":"","source":"library"}},"elements":[],"widgetType":"image"}],"isInner":true},{"id":"c9e2b2f","elType":"column","settings":{"_column_size":50,"_inline_size":90},"elements":[{"id":"7045f21","elType":"widget","settings":{"editor":"<p>Instituto Federal de Educa\u00e7\u00e3o, Ci\u00eancia e Tecnologia de S\u00e3o Paulo - IFSP&nbsp;<\/p>","text_color":"#FFFFFF","__globals__":{"typography_typography":"globals\/typography?id=ee37106"},"_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"text-editor"},{"id":"be320f9","elType":"widget","settings":{"editor":"<p style=\"color: #ffffff; font-family: 'Roboto Slab', sans-serif;\"><span style=\"font-family: var( --e-global-typography-ee37106-font-family ), Sans-serif; font-size: var( --e-global-typography-ee37106-font-size ); font-weight: var( --e-global-typography-text-font-weight ); letter-spacing: var( --e-global-typography-ee37106-letter-spacing ); background-color: var( --e-global-color-3224ac4 );\">Ensino m\u00e9dio, Inform\u00e1tica para Internet<\/span><\/p><p style=\"color: #ffffff; font-family: 'Roboto Slab', sans-serif;\">2019 \u2013 2021<\/p>","__globals__":{"typography_typography":"globals\/typography?id=525a924"}},"elements":[],"widgetType":"text-editor"}],"isInner":true}],"isInner":true},{"id":"df9345a","elType":"widget","settings":[],"elements":[],"widgetType":"spacer"},{"id":"8f68849","elType":"section","settings":{"structure":"20"},"elements":[{"id":"1d22d0e","elType":"column","settings":{"_column_size":50,"_inline_size":90},"elements":[{"id":"6dfc49d","elType":"widget","settings":{"editor":"<p><span style=\"text-align: start;\">MicroPRO - Qualifica\u00e7\u00e3o Profissional<\/span><\/p>","text_color":"#FFFFFF","__globals__":{"typography_typography":"globals\/typography?id=ee37106"},"_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"align":"right"},"elements":[],"widgetType":"text-editor"},{"id":"2f31dce","elType":"widget","settings":{"editor":"<p><span style=\"text-align: start;\">Analista em Suporte T\u00e9cnico<\/span><br><\/p>","__globals__":{"typography_typography":"globals\/typography?id=525a924"},"align":"right","text_color":"#FFFFFF"},"elements":[],"widgetType":"text-editor"}],"isInner":true},{"id":"376b113","elType":"column","settings":{"_column_size":50,"_inline_size":10},"elements":[{"id":"b678ce4","elType":"widget","settings":{"image":{"url":"http:\/\/mauricio-brito.soukick.ml\/wp-content\/uploads\/2021\/11\/micropro-logo.jpg","id":464,"alt":"","source":"library"}},"elements":[],"widgetType":"image"}],"isInner":true}],"isInner":true},{"id":"6df3558","elType":"widget","settings":[],"elements":[],"widgetType":"spacer"},{"id":"4608abc","elType":"widget","settings":[],"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"7a26a28","elType":"section","settings":{"background_background":"classic","__globals__":{"background_color":"globals\/colors?id=795e22b"}},"elements":[{"id":"aa68915","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"c1e3582","elType":"widget","settings":[],"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"52436085","elType":"section","settings":{"gap":"no","custom_height":{"unit":"px","size":""},"content_position":"middle","structure":"20","padding":{"unit":"px","top":"100","right":"0","bottom":"100","left":"0","isLinked":false},"background_background":"classic","background_color":"#232323","padding_tablet":{"unit":"px","top":"100","right":"25","bottom":"100","left":"25","isLinked":false},"padding_mobile":{"unit":"px","top":"50","right":"20","bottom":"50","left":"20","isLinked":false},"animation":"slideInUp"},"elements":[{"id":"135cd45a","elType":"column","settings":{"_column_size":50,"_inline_size":43.244},"elements":[{"id":"3e0e5ed8","elType":"widget","settings":{"title":"Carreira","align":"left","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":77,"sizes":[]},"header_size":"h3","typography_font_family":"Roboto Slab","typography_line_height":{"unit":"em","size":"","sizes":[]},"__globals__":{"typography_typography":""}},"elements":[],"widgetType":"heading"},{"id":"5464e4a5","elType":"widget","settings":{"title_text":"Maratona InterIFs - Ranking","description_text":"","position":"left","primary_color":"#00ce1b","icon_space":{"unit":"px","size":8},"icon_size":{"unit":"px","size":30},"hover_animation":"grow","text_align":"center","title_bottom_space":{"unit":"px","size":14},"title_color":"#ffffff","_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"content_vertical_alignment":"middle","description_typography_typography":"custom","description_typography_font_family":"Roboto Slab","description_typography_font_weight":"400","_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"__globals__":{"title_typography_typography":""}},"elements":[],"widgetType":"icon-box"},{"id":"4e5ec33e","elType":"widget","settings":{"icon_list":[{"text":"Conquista da 14\u00aa posi\u00e7\u00e3o pela equipe TLEtubbies","icon":"","_id":"7f644b8"}],"space_between":{"unit":"px","size":10},"icon_align":"left","icon_color":"#bfbfbf","icon_size":{"unit":"px","size":12},"text_indent":{"unit":"px","size":10},"text_color":"#FFFFFF","_margin":{"unit":"px","top":"-10","right":"0","bottom":"0","left":"0","isLinked":false},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"__globals__":{"icon_typography_typography":"globals\/typography?id=525a924"}},"elements":[],"widgetType":"icon-list"}],"isInner":false},{"id":"45b64415","elType":"column","settings":{"_column_size":50,"_inline_size":56.756,"padding_mobile":{"unit":"px","top":"55","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"74810788","elType":"widget","settings":{"image":{"id":462,"url":"http:\/\/mauricio-brito.soukick.ml\/wp-content\/uploads\/2021\/11\/maratona-interif1.png","alt":"","source":"library"},"image_size":"full"},"elements":[],"widgetType":"image"}],"isInner":false}],"isInner":false},{"id":"74ce8be","elType":"section","settings":{"background_background":"classic","__globals__":{"background_color":"globals\/colors?id=795e22b"}},"elements":[{"id":"fa776b2","elType":"column","settings":{"_column_size":100,"_inline_size":null,"_element_id":"rodape"},"elements":[{"id":"a196e05","elType":"section","settings":[],"elements":[{"id":"f85604d","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"82c5941","elType":"widget","settings":{"text":"Inicio \u2191","link":{"url":"#sobre","is_external":"","nofollow":"","custom_attributes":""},"align":"center","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":30,"sizes":[]},"typography_font_weight":"500","_element_width":"initial","_element_custom_width":{"unit":"px","size":160},"_position":"fixed","_offset_x":{"size":28,"unit":"px"},"_offset_y":{"size":851,"unit":"px"},"__globals__":{"background_color":"globals\/colors?id=text"}},"elements":[],"widgetType":"button"},{"id":"e02ff51","elType":"widget","settings":{"editor":"<p>Feito por Mauricio B. Teixeira. \u00a9Copyright 2021<\/p>","align":"center","text_color":"#FFFFFF"},"elements":[],"widgetType":"text-editor"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
@@ -1152,15 +1071,15 @@ Avatares de comentaristas vêm a partir do <a href="https://gravatar.com">Gravat
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:10:{s:5:"image";a:3:{s:5:"count";i:4;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:6:{s:5:"image";i:4;s:22:"image_custom_dimension";i:1;s:5:"align";i:1;s:7:"link_to";i:1;s:4:"link";i:1;s:10:"image_size";i:1;}}s:5:"style";a:1:{s:19:"section_style_image";a:2:{s:5:"width";i:1;s:6:"height";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:20;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:4:{s:12:"_inline_size";i:20;s:16:"content_position";i:3;s:5:"align";i:3;s:8:"html_tag";i:1;}}s:5:"style";a:2:{s:13:"section_style";a:4:{s:21:"background_background";i:1;s:16:"background_image";i:1;s:17:"background_repeat";i:1;s:15:"background_size";i:1;}s:26:"section_background_overlay";a:3:{s:29:"background_overlay_background";i:1;s:24:"background_overlay_color";i:1;s:26:"background_overlay_opacity";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:1:{s:11:"_element_id";i:3;}}}}s:9:"icon-list";a:3:{s:5:"count";i:3;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:12:"section_icon";a:2:{s:4:"view";i:2;s:9:"icon_list";i:3;}}s:5:"style";a:3:{s:17:"section_icon_list";a:2:{s:13:"space_between";i:2;s:10:"icon_align";i:3;}s:18:"section_text_style";a:3:{s:10:"text_color";i:2;s:16:"text_color_hover";i:1;s:11:"text_indent";i:1;}s:18:"section_icon_style";a:4:{s:10:"icon_color";i:2;s:9:"icon_size";i:2;s:15:"icon_self_align";i:1;s:16:"icon_color_hover";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:1;s:8:"_padding";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:14;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:6:"layout";a:2:{s:17:"section_structure";a:1:{s:9:"structure";i:5;}s:14:"section_layout";a:7:{s:6:"height";i:3;s:13:"custom_height";i:3;s:6:"layout";i:1;s:12:"height_inner";i:1;s:19:"custom_height_inner";i:1;s:16:"content_position";i:2;s:3:"gap";i:1;}}s:5:"style";a:2:{s:18:"section_background";a:6:{s:21:"background_background";i:10;s:16:"background_image";i:1;s:19:"background_position";i:1;s:17:"background_repeat";i:1;s:15:"background_size";i:1;s:16:"background_color";i:2;}s:26:"section_background_overlay";a:4:{s:29:"background_overlay_background";i:1;s:24:"background_overlay_color";i:1;s:26:"background_overlay_color_b";i:1;s:26:"background_overlay_opacity";i:1;}}s:8:"advanced";a:3:{s:16:"section_advanced";a:2:{s:11:"_element_id";i:4;s:7:"padding";i:1;}s:19:"_section_responsive";a:2:{s:11:"hide_tablet";i:1;s:11:"hide_mobile";i:1;}s:15:"section_effects";a:1:{s:9:"animation";i:2;}}}}s:7:"heading";a:3:{s:5:"count";i:5;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:4:{s:5:"title";i:5;s:4:"size";i:1;s:11:"header_size";i:5;s:5:"align";i:4;}}s:5:"style";a:1:{s:19:"section_title_style";a:5:{s:11:"title_color";i:5;s:21:"typography_typography";i:1;s:20:"typography_font_size";i:1;s:22:"typography_font_family";i:1;s:22:"typography_line_height";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:6;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:6;}}s:5:"style";a:1:{s:13:"section_style";a:2:{s:10:"text_color";i:5;s:5:"align";i:3;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:2;}}}}s:6:"spacer";a:3:{s:5:"count";i:12;s:15:"control_percent";i:0;s:8:"controls";a:0:{}}s:6:"button";a:3:{s:5:"count";i:2;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_button";a:3:{s:5:"align";i:2;s:4:"link";i:2;s:4:"text";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:6:{s:17:"button_text_color";i:1;s:16:"background_color";i:1;s:21:"typography_typography";i:1;s:22:"typography_font_family";i:1;s:20:"typography_font_size";i:1;s:22:"typography_font_weight";i:1;}}s:8:"advanced";a:1:{s:17:"_section_position";a:5:{s:14:"_element_width";i:1;s:21:"_element_custom_width";i:1;s:9:"_position";i:1;s:9:"_offset_x";i:1;s:9:"_offset_y";i:1;}}}}s:23:"eael-filterable-gallery";a:3:{s:5:"count";i:2;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:4:{s:24:"eael_section_fg_settings";a:4:{s:21:"eael_fg_items_to_show";i:2;s:24:"eael_fg_grid_item_height";i:1;s:21:"eael_fg_caption_style";i:2;s:18:"eael_fg_show_popup";i:1;}s:32:"eael_section_fg_control_settings";a:2:{s:13:"filter_enable";i:1;s:16:"eael_fg_controls";i:2;}s:29:"eael_section_fg_grid_settings";a:1:{s:21:"eael_fg_gallery_items";i:2;}s:18:"section_pagination";a:1:{s:10:"pagination";i:1;}}s:5:"style";a:7:{s:30:"eael_section_fg_style_settings";a:2:{s:16:"eael_fg_bg_color";i:2;s:25:"eael_fg_shadow_box_shadow";i:1;}s:38:"eael_section_fg_control_style_settings";a:2:{s:33:"eael_fg_control_normal_text_color";i:2;s:31:"eael_fg_control_normal_bg_color";i:1;}s:35:"eael_section_fg_item_style_settings";a:2:{s:35:"eael_fg_item_shadow_box_shadow_type";i:1;s:30:"eael_fg_item_shadow_box_shadow";i:1;}s:37:"eael_section_fg_item_card_hover_style";a:1:{s:32:"eael_fg_item_card_hover_bg_color";i:2;}s:32:"eael_section_fg_video_item_style";a:1:{s:27:"eael_fg_video_item_hover_bg";i:1;}s:43:"eael_section_fg_item_content_style_settings";a:12:{s:29:"eael_fg_item_content_bg_color";i:2;s:32:"eael_fg_item_content_title_color";i:2;s:48:"eael_fg_item_content_title_typography_typography";i:2;s:49:"eael_fg_item_content_title_typography_font_family";i:2;s:47:"eael_fg_item_content_title_typography_font_size";i:2;s:49:"eael_fg_item_content_title_typography_font_weight";i:1;s:31:"eael_fg_item_content_text_color";i:2;s:47:"eael_fg_item_content_text_typography_typography";i:2;s:30:"eael_fg_item_content_alignment";i:1;s:49:"eael_fg_item_content_title_typography_line_height";i:1;s:48:"eael_fg_item_content_text_typography_font_family";i:1;s:48:"eael_fg_item_content_text_typography_line_height";i:1;}s:38:"eael_section_fg_item_hover_icons_style";a:3:{s:26:"eael_fg_item_icon_bg_color";i:2;s:23:"eael_fg_item_icon_color";i:1;s:32:"eael_fg_item_icon_bg_color_hover";i:1;}}s:8:"advanced";a:3:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}s:15:"section_effects";a:1:{s:10:"_animation";i:1;}s:19:"_section_background";a:1:{s:22:"_background_background";i:1;}}}}s:8:"icon-box";a:3:{s:5:"count";i:1;s:15:"control_percent";i:5;s:8:"controls";a:3:{s:7:"content";a:1:{s:12:"section_icon";a:3:{s:10:"title_text";i:1;s:16:"description_text";i:1;s:8:"position";i:1;}}s:5:"style";a:2:{s:18:"section_style_icon";a:4:{s:13:"primary_color";i:1;s:10:"icon_space";i:1;s:9:"icon_size";i:1;s:15:"hover_animation";i:1;}s:21:"section_style_content";a:7:{s:10:"text_align";i:1;s:18:"title_bottom_space";i:1;s:11:"title_color";i:1;s:26:"content_vertical_alignment";i:1;s:33:"description_typography_typography";i:1;s:34:"description_typography_font_family";i:1;s:34:"description_typography_font_weight";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:8:"_padding";i:1;s:7:"_margin";i:1;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:10:{s:5:"image";a:3:{s:5:"count";i:4;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:6:{s:5:"image";i:4;s:22:"image_custom_dimension";i:1;s:5:"align";i:1;s:7:"link_to";i:1;s:4:"link";i:1;s:10:"image_size";i:1;}}s:5:"style";a:1:{s:19:"section_style_image";a:2:{s:5:"width";i:1;s:6:"height";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:20;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:4:{s:12:"_inline_size";i:20;s:16:"content_position";i:3;s:5:"align";i:3;s:8:"html_tag";i:1;}}s:5:"style";a:2:{s:13:"section_style";a:4:{s:21:"background_background";i:1;s:16:"background_image";i:1;s:17:"background_repeat";i:1;s:15:"background_size";i:1;}s:26:"section_background_overlay";a:3:{s:29:"background_overlay_background";i:1;s:24:"background_overlay_color";i:1;s:26:"background_overlay_opacity";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:1:{s:11:"_element_id";i:3;}}}}s:9:"icon-list";a:3:{s:5:"count";i:3;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:12:"section_icon";a:2:{s:4:"view";i:2;s:9:"icon_list";i:3;}}s:5:"style";a:3:{s:17:"section_icon_list";a:2:{s:13:"space_between";i:2;s:10:"icon_align";i:3;}s:18:"section_text_style";a:3:{s:10:"text_color";i:2;s:16:"text_color_hover";i:1;s:11:"text_indent";i:1;}s:18:"section_icon_style";a:4:{s:10:"icon_color";i:2;s:9:"icon_size";i:2;s:15:"icon_self_align";i:1;s:16:"icon_color_hover";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:1;s:8:"_padding";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:14;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:6:"layout";a:2:{s:17:"section_structure";a:1:{s:9:"structure";i:5;}s:14:"section_layout";a:7:{s:6:"height";i:3;s:13:"custom_height";i:3;s:6:"layout";i:1;s:12:"height_inner";i:1;s:19:"custom_height_inner";i:1;s:16:"content_position";i:2;s:3:"gap";i:1;}}s:5:"style";a:2:{s:18:"section_background";a:6:{s:21:"background_background";i:10;s:16:"background_image";i:1;s:19:"background_position";i:1;s:17:"background_repeat";i:1;s:15:"background_size";i:1;s:16:"background_color";i:2;}s:26:"section_background_overlay";a:4:{s:29:"background_overlay_background";i:1;s:24:"background_overlay_color";i:1;s:26:"background_overlay_color_b";i:1;s:26:"background_overlay_opacity";i:1;}}s:8:"advanced";a:3:{s:16:"section_advanced";a:2:{s:11:"_element_id";i:4;s:7:"padding";i:1;}s:19:"_section_responsive";a:2:{s:11:"hide_tablet";i:1;s:11:"hide_mobile";i:1;}s:15:"section_effects";a:1:{s:9:"animation";i:2;}}}}s:7:"heading";a:3:{s:5:"count";i:5;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:4:{s:5:"title";i:5;s:4:"size";i:1;s:11:"header_size";i:5;s:5:"align";i:4;}}s:5:"style";a:1:{s:19:"section_title_style";a:5:{s:11:"title_color";i:5;s:21:"typography_typography";i:1;s:20:"typography_font_size";i:1;s:22:"typography_font_family";i:1;s:22:"typography_line_height";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:6;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:6;}}s:5:"style";a:1:{s:13:"section_style";a:2:{s:10:"text_color";i:5;s:5:"align";i:3;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:2;}}}}s:6:"spacer";a:3:{s:5:"count";i:12;s:15:"control_percent";i:0;s:8:"controls";a:0:{}}s:6:"button";a:3:{s:5:"count";i:2;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_button";a:3:{s:4:"text";i:2;s:5:"align";i:2;s:4:"link";i:2;}}s:5:"style";a:1:{s:13:"section_style";a:6:{s:17:"button_text_color";i:1;s:16:"background_color";i:1;s:21:"typography_typography";i:1;s:22:"typography_font_family";i:1;s:20:"typography_font_size";i:1;s:22:"typography_font_weight";i:1;}}s:8:"advanced";a:1:{s:17:"_section_position";a:5:{s:14:"_element_width";i:1;s:21:"_element_custom_width";i:1;s:9:"_position";i:1;s:9:"_offset_x";i:1;s:9:"_offset_y";i:1;}}}}s:23:"eael-filterable-gallery";a:3:{s:5:"count";i:2;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:4:{s:24:"eael_section_fg_settings";a:4:{s:21:"eael_fg_items_to_show";i:2;s:24:"eael_fg_grid_item_height";i:1;s:21:"eael_fg_caption_style";i:2;s:18:"eael_fg_show_popup";i:1;}s:32:"eael_section_fg_control_settings";a:2:{s:13:"filter_enable";i:1;s:16:"eael_fg_controls";i:2;}s:29:"eael_section_fg_grid_settings";a:1:{s:21:"eael_fg_gallery_items";i:2;}s:18:"section_pagination";a:1:{s:10:"pagination";i:1;}}s:5:"style";a:7:{s:30:"eael_section_fg_style_settings";a:2:{s:16:"eael_fg_bg_color";i:2;s:25:"eael_fg_shadow_box_shadow";i:1;}s:38:"eael_section_fg_control_style_settings";a:2:{s:33:"eael_fg_control_normal_text_color";i:2;s:31:"eael_fg_control_normal_bg_color";i:1;}s:35:"eael_section_fg_item_style_settings";a:2:{s:35:"eael_fg_item_shadow_box_shadow_type";i:1;s:30:"eael_fg_item_shadow_box_shadow";i:1;}s:37:"eael_section_fg_item_card_hover_style";a:1:{s:32:"eael_fg_item_card_hover_bg_color";i:2;}s:32:"eael_section_fg_video_item_style";a:1:{s:27:"eael_fg_video_item_hover_bg";i:1;}s:43:"eael_section_fg_item_content_style_settings";a:12:{s:29:"eael_fg_item_content_bg_color";i:2;s:32:"eael_fg_item_content_title_color";i:2;s:48:"eael_fg_item_content_title_typography_typography";i:2;s:49:"eael_fg_item_content_title_typography_font_family";i:2;s:47:"eael_fg_item_content_title_typography_font_size";i:2;s:49:"eael_fg_item_content_title_typography_font_weight";i:1;s:31:"eael_fg_item_content_text_color";i:2;s:47:"eael_fg_item_content_text_typography_typography";i:2;s:30:"eael_fg_item_content_alignment";i:1;s:49:"eael_fg_item_content_title_typography_line_height";i:1;s:48:"eael_fg_item_content_text_typography_font_family";i:1;s:48:"eael_fg_item_content_text_typography_line_height";i:1;}s:38:"eael_section_fg_item_hover_icons_style";a:3:{s:26:"eael_fg_item_icon_bg_color";i:2;s:23:"eael_fg_item_icon_color";i:1;s:32:"eael_fg_item_icon_bg_color_hover";i:1;}}s:8:"advanced";a:3:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}s:15:"section_effects";a:1:{s:10:"_animation";i:1;}s:19:"_section_background";a:1:{s:22:"_background_background";i:1;}}}}s:8:"icon-box";a:3:{s:5:"count";i:1;s:15:"control_percent";i:5;s:8:"controls";a:3:{s:7:"content";a:1:{s:12:"section_icon";a:3:{s:10:"title_text";i:1;s:16:"description_text";i:1;s:8:"position";i:1;}}s:5:"style";a:2:{s:18:"section_style_icon";a:4:{s:13:"primary_color";i:1;s:10:"icon_space";i:1;s:9:"icon_size";i:1;s:15:"hover_animation";i:1;}s:21:"section_style_content";a:7:{s:10:"text_align";i:1;s:18:"title_bottom_space";i:1;s:11:"title_color";i:1;s:26:"content_vertical_alignment";i:1;s:33:"description_typography_typography";i:1;s:34:"description_typography_font_family";i:1;s:34:"description_typography_font_weight";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:8:"_padding";i:1;s:7:"_margin";i:1;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Competencias]]></title>
-		<link>http://localhost/wordpress/2021/11/11/competencias/</link>
+		<link>http://mauricio-brito.soukick.ml/2021/11/11/competencias/</link>
 		<pubDate>Thu, 11 Nov 2021 23:06:53 +0000</pubDate>
 		<dc:creator><![CDATA[mauricio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/wordpress/?p=166</guid>
+		<guid isPermaLink="false">http://mauricio-brito.soukick.ml/?p=166</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1214,10 +1133,10 @@ Avatares de comentaristas vêm a partir do <a href="https://gravatar.com">Gravat
 							</item>
 					<item>
 		<title><![CDATA[Sobre]]></title>
-		<link>http://localhost/wordpress/2021/11/11/sobre/</link>
+		<link>http://mauricio-brito.soukick.ml/2021/11/11/sobre/</link>
 		<pubDate>Thu, 11 Nov 2021 23:06:53 +0000</pubDate>
 		<dc:creator><![CDATA[mauricio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/wordpress/?p=167</guid>
+		<guid isPermaLink="false">http://mauricio-brito.soukick.ml/?p=167</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1271,10 +1190,10 @@ Avatares de comentaristas vêm a partir do <a href="https://gravatar.com">Gravat
 							</item>
 					<item>
 		<title><![CDATA[Java-logo]]></title>
-		<link>http://localhost/wordpress/java-logo/</link>
+		<link>http://mauricio-brito.soukick.ml/java-logo/</link>
 		<pubDate>Fri, 12 Nov 2021 00:12:45 +0000</pubDate>
 		<dc:creator><![CDATA[mauricio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/wordpress/wp-content/uploads/2021/11/Java-logo.jpg</guid>
+		<guid isPermaLink="false">http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/Java-logo.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1292,7 +1211,7 @@ Avatares de comentaristas vêm a partir do <a href="https://gravatar.com">Gravat
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost/wordpress/wp-content/uploads/2021/11/Java-logo.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/Java-logo.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021/11/Java-logo.jpg]]></wp:meta_value>
@@ -1304,10 +1223,10 @@ Avatares de comentaristas vêm a partir do <a href="https://gravatar.com">Gravat
 							</item>
 					<item>
 		<title><![CDATA[MySQL-logo]]></title>
-		<link>http://localhost/wordpress/mysql-logo/</link>
+		<link>http://mauricio-brito.soukick.ml/mysql-logo/</link>
 		<pubDate>Fri, 12 Nov 2021 00:12:45 +0000</pubDate>
 		<dc:creator><![CDATA[mauricio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/wordpress/wp-content/uploads/2021/11/MySQL-logo.jpg</guid>
+		<guid isPermaLink="false">http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/MySQL-logo.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1325,7 +1244,7 @@ Avatares de comentaristas vêm a partir do <a href="https://gravatar.com">Gravat
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost/wordpress/wp-content/uploads/2021/11/MySQL-logo.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/MySQL-logo.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021/11/MySQL-logo.jpg]]></wp:meta_value>
@@ -1337,10 +1256,10 @@ Avatares de comentaristas vêm a partir do <a href="https://gravatar.com">Gravat
 							</item>
 					<item>
 		<title><![CDATA[html-logo]]></title>
-		<link>http://localhost/wordpress/html-logo/</link>
+		<link>http://mauricio-brito.soukick.ml/html-logo/</link>
 		<pubDate>Fri, 12 Nov 2021 00:12:46 +0000</pubDate>
 		<dc:creator><![CDATA[mauricio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/wordpress/wp-content/uploads/2021/11/html-logo.jpg</guid>
+		<guid isPermaLink="false">http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/html-logo.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1358,7 +1277,7 @@ Avatares de comentaristas vêm a partir do <a href="https://gravatar.com">Gravat
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost/wordpress/wp-content/uploads/2021/11/html-logo.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/html-logo.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021/11/html-logo.jpg]]></wp:meta_value>
@@ -1370,10 +1289,10 @@ Avatares de comentaristas vêm a partir do <a href="https://gravatar.com">Gravat
 							</item>
 					<item>
 		<title><![CDATA[css-logo]]></title>
-		<link>http://localhost/wordpress/css-logo/</link>
+		<link>http://mauricio-brito.soukick.ml/css-logo/</link>
 		<pubDate>Fri, 12 Nov 2021 00:12:47 +0000</pubDate>
 		<dc:creator><![CDATA[mauricio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/wordpress/wp-content/uploads/2021/11/css-logo.jpg</guid>
+		<guid isPermaLink="false">http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/css-logo.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1391,7 +1310,7 @@ Avatares de comentaristas vêm a partir do <a href="https://gravatar.com">Gravat
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost/wordpress/wp-content/uploads/2021/11/css-logo.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/css-logo.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021/11/css-logo.jpg]]></wp:meta_value>
@@ -1403,10 +1322,10 @@ Avatares de comentaristas vêm a partir do <a href="https://gravatar.com">Gravat
 							</item>
 					<item>
 		<title><![CDATA[logo-ifsp]]></title>
-		<link>http://localhost/wordpress/principal/logo-ifsp/</link>
+		<link>http://mauricio-brito.soukick.ml/principal/logo-ifsp/</link>
 		<pubDate>Thu, 18 Nov 2021 22:50:37 +0000</pubDate>
 		<dc:creator><![CDATA[mauricio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/wordpress/wp-content/uploads/2021/11/logo-ifsp.jpg</guid>
+		<guid isPermaLink="false">http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/logo-ifsp.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1424,7 +1343,7 @@ Avatares de comentaristas vêm a partir do <a href="https://gravatar.com">Gravat
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost/wordpress/wp-content/uploads/2021/11/logo-ifsp.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/logo-ifsp.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021/11/logo-ifsp.jpg]]></wp:meta_value>
@@ -1436,10 +1355,10 @@ Avatares de comentaristas vêm a partir do <a href="https://gravatar.com">Gravat
 							</item>
 					<item>
 		<title><![CDATA[maratona-interif]]></title>
-		<link>http://localhost/wordpress/principal/maratona-interif/</link>
+		<link>http://mauricio-brito.soukick.ml/principal/maratona-interif/</link>
 		<pubDate>Thu, 18 Nov 2021 23:04:47 +0000</pubDate>
 		<dc:creator><![CDATA[mauricio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/wordpress/wp-content/uploads/2021/11/maratona-interif.png</guid>
+		<guid isPermaLink="false">http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/maratona-interif.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1457,7 +1376,7 @@ Avatares de comentaristas vêm a partir do <a href="https://gravatar.com">Gravat
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost/wordpress/wp-content/uploads/2021/11/maratona-interif.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/maratona-interif.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021/11/maratona-interif.png]]></wp:meta_value>
@@ -1469,10 +1388,10 @@ Avatares de comentaristas vêm a partir do <a href="https://gravatar.com">Gravat
 							</item>
 					<item>
 		<title><![CDATA[maratona-interif1]]></title>
-		<link>http://localhost/wordpress/principal/maratona-interif1/</link>
+		<link>http://mauricio-brito.soukick.ml/principal/maratona-interif1/</link>
 		<pubDate>Thu, 18 Nov 2021 23:06:16 +0000</pubDate>
 		<dc:creator><![CDATA[mauricio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/wordpress/wp-content/uploads/2021/11/maratona-interif1.png</guid>
+		<guid isPermaLink="false">http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/maratona-interif1.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1490,7 +1409,7 @@ Avatares de comentaristas vêm a partir do <a href="https://gravatar.com">Gravat
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost/wordpress/wp-content/uploads/2021/11/maratona-interif1.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/maratona-interif1.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021/11/maratona-interif1.png]]></wp:meta_value>
@@ -1502,10 +1421,10 @@ Avatares de comentaristas vêm a partir do <a href="https://gravatar.com">Gravat
 							</item>
 					<item>
 		<title><![CDATA[micropro-logo]]></title>
-		<link>http://localhost/wordpress/principal/micropro-logo/</link>
+		<link>http://mauricio-brito.soukick.ml/principal/micropro-logo/</link>
 		<pubDate>Fri, 19 Nov 2021 01:53:30 +0000</pubDate>
 		<dc:creator><![CDATA[mauricio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/wordpress/wp-content/uploads/2021/11/micropro-logo.jpg</guid>
+		<guid isPermaLink="false">http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/micropro-logo.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1523,7 +1442,7 @@ Avatares de comentaristas vêm a partir do <a href="https://gravatar.com">Gravat
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost/wordpress/wp-content/uploads/2021/11/micropro-logo.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/micropro-logo.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021/11/micropro-logo.jpg]]></wp:meta_value>
@@ -1535,10 +1454,10 @@ Avatares de comentaristas vêm a partir do <a href="https://gravatar.com">Gravat
 							</item>
 					<item>
 		<title><![CDATA[placeholder-1.png]]></title>
-		<link>http://localhost/wordpress/placeholder-1-png/</link>
+		<link>http://mauricio-brito.soukick.ml/placeholder-1-png/</link>
 		<pubDate>Thu, 25 Nov 2021 22:02:13 +0000</pubDate>
 		<dc:creator><![CDATA[mauricio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/wordpress/wp-content/uploads/2021/11/placeholder-1.png</guid>
+		<guid isPermaLink="false">http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/placeholder-1.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1556,7 +1475,7 @@ Avatares de comentaristas vêm a partir do <a href="https://gravatar.com">Gravat
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost/wordpress/wp-content/uploads/2021/11/placeholder-1.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/placeholder-1.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021/11/placeholder-1.png]]></wp:meta_value>
@@ -1572,10 +1491,10 @@ Avatares de comentaristas vêm a partir do <a href="https://gravatar.com">Gravat
 							</item>
 					<item>
 		<title><![CDATA[u4.png]]></title>
-		<link>http://localhost/wordpress/u4-png/</link>
+		<link>http://mauricio-brito.soukick.ml/u4-png/</link>
 		<pubDate>Thu, 25 Nov 2021 22:09:53 +0000</pubDate>
 		<dc:creator><![CDATA[mauricio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/wordpress/wp-content/uploads/2021/11/u4.png</guid>
+		<guid isPermaLink="false">http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/u4.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1593,7 +1512,7 @@ Avatares de comentaristas vêm a partir do <a href="https://gravatar.com">Gravat
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost/wordpress/wp-content/uploads/2021/11/u4.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://mauricio-brito.soukick.ml/wp-content/uploads/2021/11/u4.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021/11/u4.png]]></wp:meta_value>
@@ -1605,6 +1524,279 @@ Avatares de comentaristas vêm a partir do <a href="https://gravatar.com">Gravat
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_source_image_hash]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a999c02c391177d5728a02609c53660477dc8b53]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Curriculo Mauricio]]></title>
+		<link>http://mauricio-brito.soukick.ml/curriculo-mauricio/</link>
+		<pubDate>Thu, 09 Dec 2021 21:59:54 +0000</pubDate>
+		<dc:creator><![CDATA[mauricio]]></dc:creator>
+		<guid isPermaLink="false">http://mauricio-brito.soukick.ml/wp-content/uploads/2021/12/Curriculo-Mauricio.pdf</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>525</wp:post_id>
+		<wp:post_date><![CDATA[2021-12-09 18:59:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-12-09 21:59:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-12-09 18:59:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-12-09 21:59:54]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[curriculo-mauricio]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://mauricio-brito.soukick.ml/wp-content/uploads/2021/12/Curriculo-Mauricio.pdf]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021/12/Curriculo-Mauricio.pdf]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{s:5:"sizes";a:4:{s:4:"full";a:4:{s:4:"file";s:26:"Curriculo-Mauricio-pdf.jpg";s:5:"width";i:1088;s:6:"height";i:1408;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:34:"Curriculo-Mauricio-pdf-232x300.jpg";s:5:"width";i:232;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:35:"Curriculo-Mauricio-pdf-791x1024.jpg";s:5:"width";i:791;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:34:"Curriculo-Mauricio-pdf-116x150.jpg";s:5:"width";i:116;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Formulário de contato 1]]></title>
+		<link>http://mauricio-brito.soukick.ml/?post_type=wpcf7_contact_form&#038;p=532</link>
+		<pubDate>Thu, 09 Dec 2021 22:04:27 +0000</pubDate>
+		<dc:creator><![CDATA[mauricio]]></dc:creator>
+		<guid isPermaLink="false">http://mauricio-brito.soukick.ml/?post_type=wpcf7_contact_form&#038;p=532</guid>
+		<description></description>
+		<content:encoded><![CDATA[<label> Seu nome
+    [text* your-name] </label>
+
+<label> Seu gênero</label>
+    [radio Genero use_label_element default:1 "Masculino" "Feminino" "Outro"]
+
+<label> Seu e-mail
+    [email* your-email] </label>
+
+<label> Seu telefone
+    [tel* tel-16] </label>
+
+<label> Assunto
+    [text* your-subject] </label>
+
+<label> Sua mensagem
+    [textarea your-message] </label>
+
+<label> Data
+[date date-903]
+</label>
+
+[submit "Enviar"]
+1
+[_site_title] "[your-subject]"
+[_site_title] <wordpress@mauricio-brito.soukick.ml>
+britomauricio2003@gmail.com
+De: [your-name] <[your-email]>
+Assunto: [your-subject]
+
+Corpo da mensagem:
+[your-message]
+
+-- 
+Este e-mail foi enviado de um formulário de contato em [_site_title] ([_site_url])
+Reply-To: [your-email]
+
+
+
+
+[_site_title] "[your-subject]"
+[_site_title] <wordpress@mauricio-brito.soukick.ml>
+[your-email]
+Corpo da mensagem:
+[your-message]
+
+-- 
+Este e-mail foi enviado de um formulário de contato em [_site_title] ([_site_url])
+Reply-To: [_site_admin_email]
+
+
+
+Agradecemos a sua mensagem.
+Ocorreu um erro ao tentar enviar sua mensagem. Tente novamente mais tarde.
+Um ou mais campos possuem um erro. Verifique e tente novamente.
+Ocorreu um erro ao tentar enviar sua mensagem. Tente novamente mais tarde.
+Você deve aceitar os termos e condições antes de enviar sua mensagem.
+O campo é obrigatório.
+O campo é muito longo.
+O campo é muito curto.
+Ocorreu um erro desconhecido ao enviar o arquivo.
+Você não tem permissão para enviar esse tipo de arquivo.
+O arquivo é muito grande.
+Ocorreu um erro ao enviar o arquivo.
+O formato de data está incorreto.
+A data é anterior à mais antiga permitida.
+A data é posterior à maior data permitida.
+O formato de número é inválido.
+O número é menor do que o mínimo permitido.
+O número é maior do que o máximo permitido.
+A resposta para o quiz está incorreta.
+O endereço de e-mail informado é inválido.
+A URL é inválida.
+O número de telefone é inválido.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>532</wp:post_id>
+		<wp:post_date><![CDATA[2021-12-09 19:04:27]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-12-09 22:04:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-12-13 22:28:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-12-14 01:28:49]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[formulario-de-contato-1]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wpcf7_contact_form]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_form]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<label> Seu nome
+    [text* your-name] </label>
+
+<label> Seu gênero</label>
+    [radio Genero use_label_element default:1 "Masculino" "Feminino" "Outro"]
+
+<label> Seu e-mail
+    [email* your-email] </label>
+
+<label> Seu telefone
+    [tel* tel-16] </label>
+
+<label> Assunto
+    [text* your-subject] </label>
+
+<label> Sua mensagem
+    [textarea your-message] </label>
+
+<label> Data
+[date date-903]
+</label>
+
+[submit "Enviar"]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:51:"[_site_title] <wordpress@mauricio-brito.soukick.ml>";s:9:"recipient";s:27:"britomauricio2003@gmail.com";s:4:"body";s:178:"De: [your-name] <[your-email]>
+Assunto: [your-subject]
+
+Corpo da mensagem:
+[your-message]
+
+-- 
+Este e-mail foi enviado de um formulário de contato em [_site_title] ([_site_url])";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:51:"[_site_title] <wordpress@mauricio-brito.soukick.ml>";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:122:"Corpo da mensagem:
+[your-message]
+
+-- 
+Este e-mail foi enviado de um formulário de contato em [_site_title] ([_site_url])";s:18:"additional_headers";s:29:"Reply-To: [_site_admin_email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:22:{s:12:"mail_sent_ok";s:27:"Agradecemos a sua mensagem.";s:12:"mail_sent_ng";s:74:"Ocorreu um erro ao tentar enviar sua mensagem. Tente novamente mais tarde.";s:16:"validation_error";s:63:"Um ou mais campos possuem um erro. Verifique e tente novamente.";s:4:"spam";s:74:"Ocorreu um erro ao tentar enviar sua mensagem. Tente novamente mais tarde.";s:12:"accept_terms";s:72:"Você deve aceitar os termos e condições antes de enviar sua mensagem.";s:16:"invalid_required";s:24:"O campo é obrigatório.";s:16:"invalid_too_long";s:23:"O campo é muito longo.";s:17:"invalid_too_short";s:23:"O campo é muito curto.";s:13:"upload_failed";s:49:"Ocorreu um erro desconhecido ao enviar o arquivo.";s:24:"upload_file_type_invalid";s:59:"Você não tem permissão para enviar esse tipo de arquivo.";s:21:"upload_file_too_large";s:26:"O arquivo é muito grande.";s:23:"upload_failed_php_error";s:36:"Ocorreu um erro ao enviar o arquivo.";s:12:"invalid_date";s:34:"O formato de data está incorreto.";s:14:"date_too_early";s:44:"A data é anterior à mais antiga permitida.";s:13:"date_too_late";s:44:"A data é posterior à maior data permitida.";s:14:"invalid_number";s:34:"O formato de número é inválido.";s:16:"number_too_small";s:46:"O número é menor do que o mínimo permitido.";s:16:"number_too_large";s:46:"O número é maior do que o máximo permitido.";s:23:"quiz_answer_not_correct";s:39:"A resposta para o quiz está incorreta.";s:13:"invalid_email";s:45:"O endereço de e-mail informado é inválido.";s:11:"invalid_url";s:19:"A URL é inválida.";s:11:"invalid_tel";s:35:"O número de telefone é inválido.";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_additional_settings]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
+		<wp:meta_value><![CDATA[pt_BR]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[formulario]]></title>
+		<link>http://mauricio-brito.soukick.ml/formulario/</link>
+		<pubDate>Thu, 09 Dec 2021 22:16:26 +0000</pubDate>
+		<dc:creator><![CDATA[mauricio]]></dc:creator>
+		<guid isPermaLink="false">http://mauricio-brito.soukick.ml/?page_id=533</guid>
+		<description></description>
+		<content:encoded><![CDATA[<a href="http://mauricio-brito.soukick.ml/principal/" target="_blank" rel="noopener">
+						</a>
+                <h3>
+                                    Formulario
+                                </h3>
+<p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul>
+<form action="/wp-admin/admin-ajax.php#wpcf7-f532-o1" method="post" novalidate="novalidate" data-status="init">
+<input type="hidden" name="_wpcf7" value="532" />
+<input type="hidden" name="_wpcf7_version" value="5.5.3" />
+<input type="hidden" name="_wpcf7_locale" value="pt_BR" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f532-o1" />
+<input type="hidden" name="_wpcf7_container_post" value="0" />
+<input type="hidden" name="_wpcf7_posted_data_hash" value="" />
+<p><label> Seu nome<br />
+    <input type="text" name="your-name" value="" size="40" aria-required="true" aria-invalid="false" /> </label></p>
+<p><label> Seu e-mail<br />
+    <input type="email" name="your-email" value="" size="40" aria-required="true" aria-invalid="false" /> </label></p>
+<p><label> Assunto<br />
+    <input type="text" name="your-subject" value="" size="40" aria-required="true" aria-invalid="false" /> </label></p>
+<p><label> Sua mensagem (opcional)<br />
+    <textarea name="your-message" cols="40" rows="10" aria-invalid="false"></textarea> </label></p>
+<p><label> Data<br />
+<input type="date" name="date-903" value="" aria-invalid="false" /><br />
+</label></p>
+<p><input type="submit" value="Enviar" /></p>
+</form>
+		<p>Feito por Mauricio B. Teixeira. ©Copyright 2021</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>533</wp:post_id>
+		<wp:post_date><![CDATA[2021-12-09 19:16:26]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-12-09 22:16:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-12-09 19:36:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-12-09 22:36:08]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[formulario]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[wp-page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+		<wp:meta_value><![CDATA[3.4.8]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[elementor_canvas]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_page_settings]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{s:18:"eael_ext_toc_title";s:17:"Table of Contents";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[[{"id":"7ab72a0","elType":"section","settings":{"content_width":{"unit":"px","size":500,"sizes":[]},"background_background":"classic","background_color":"#232323","__globals__":{"background_color":""}},"elements":[{"id":"92a097e","elType":"column","settings":{"_column_size":100,"_inline_size":null,"heading_color":"#FFFFFF","color_text":"#FFFFFF","color_link_hover":"#FFFFFF"},"elements":[{"id":"51c6ae9","elType":"widget","settings":{"selected_icon":{"value":"fas fa-home","library":"fa-solid"},"link":{"url":"http:\/\/mauricio-brito.soukick.ml\/principal\/","is_external":"on","nofollow":"","custom_attributes":""},"primary_color":"#FFFFFF","size":{"unit":"px","size":60,"sizes":[]},"_element_width":"initial","_element_custom_width":{"unit":"px","size":83},"_position":"fixed","_offset_x":{"size":50,"unit":"px"},"_offset_y":{"size":45,"unit":"px"}},"elements":[],"widgetType":"icon"},{"id":"7f067ee","elType":"widget","settings":{"contact_form_list":"532","form_title":"yes","form_title_text":"Formulario"},"elements":[],"widgetType":"eael-contact-form-7"}],"isInner":false}],"isInner":false},{"id":"6b1beb2","elType":"section","settings":{"background_background":"classic","__globals__":{"background_color":"globals\/colors?id=795e22b"}},"elements":[{"id":"3b816e3","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"fb174f5","elType":"section","settings":[],"elements":[{"id":"186fffb","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"dc92556","elType":"widget","settings":{"editor":"<p>Feito por Mauricio B. Teixeira. \u00a9Copyright 2021<\/p>","align":"center","text_color":"#FFFFFF"},"elements":[],"widgetType":"text-editor"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_happyaddons_elements_cache]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:4:"icon";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:12:"section_icon";a:2:{s:13:"selected_icon";i:1;s:4:"link";i:1;}}s:5:"style";a:1:{s:18:"section_style_icon";a:2:{s:13:"primary_color";i:1;s:4:"size";i:1;}}s:8:"advanced";a:1:{s:17:"_section_position";a:5:{s:14:"_element_width";i:1;s:21:"_element_custom_width";i:1;s:9:"_position";i:1;s:9:"_offset_x";i:1;s:9:"_offset_y";i:1;}}}}s:19:"eael-contact-form-7";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:16:"section_info_box";a:3:{s:17:"contact_form_list";i:1;s:10:"form_title";i:1;s:15:"form_title_text";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:3;s:15:"control_percent";i:0;s:8:"controls";a:2:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:12:"_inline_size";i:3;}}s:5:"style";a:1:{s:12:"section_typo";a:3:{s:13:"heading_color";i:1;s:10:"color_text";i:1;s:16:"color_link_hover";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:3;s:15:"control_percent";i:0;s:8:"controls";a:2:{s:6:"layout";a:1:{s:14:"section_layout";a:1:{s:13:"content_width";i:1;}}s:5:"style";a:1:{s:18:"section_background";a:2:{s:21:"background_background";i:2;s:16:"background_color";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:2:{s:5:"align";i:1;s:10:"text_color";i:1;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>
